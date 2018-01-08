@@ -1,0 +1,29 @@
+# Add your comments here
+#
+
+from turtle import *
+
+#  ----------write your code here -----------
+
+
+# --------------------------------------------
+     
+# initialize turtle on canvas before drawing
+# You do not need to change anything in initialize_turtle()
+def initialize_turtle():
+    setup(800,600) # Create a turtle window 
+    reset() # Show turtle window and turtle
+    pencolor('red')
+    speed(100) # can change this to vary the speed of your turtle
+    #shape("turtle") # Make turtle shape a turtle (as opposed to arrow)
+    #Turtle, by default, starts roughly in center of canvas
+    pu()
+    # Put turtle in bottom left cornerish to better fit the L pattern
+    setx(-200)
+    sety(-200)
+    pd()
+
+
+def run():
+    initialize_turtle()
+   

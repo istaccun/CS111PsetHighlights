@@ -1,0 +1,2713 @@
+{
+  "items": [
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": true
+        }, 
+        "pdf": {
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=I-ORhT_RY3IC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "xqb8VBcpFr4", 
+      "id": "I-ORhT_RY3IC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "buyLink": "http://books.google.com/books?id=I-ORhT_RY3IC&dq=intitle:hunger&hl=&buy=&source=gbs_api", 
+        "country": "US", 
+        "isEbook": true, 
+        "listPrice": {
+          "amount": 5.99, 
+          "currencyCode": "USD"
+        }, 
+        "offers": [
+          {
+            "finskyOfferType": 1, 
+            "listPrice": {
+              "amountInMicros": 5990000.0, 
+              "currencyCode": "USD"
+            }, 
+            "retailPrice": {
+              "amountInMicros": 4610000.0, 
+              "currencyCode": "USD"
+            }
+          }
+        ], 
+        "retailPrice": {
+          "amount": 4.61, 
+          "currencyCode": "USD"
+        }, 
+        "saleability": "FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "&quot;What must it be like, I wonder, to live in a world where food appears at the press of a button?"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/I-ORhT_RY3IC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Rockridge Press"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/The_Unofficial_Recipes_of_The_Hunger_Gam.html?hl=&id=I-ORhT_RY3IC", 
+        "categories": [
+          "Cooking"
+        ], 
+        "contentVersion": "1.1.1.0.preview.3", 
+        "description": "\"What must it be like, I wonder, to live in a world where food appears at the press of a button? How would I spend the hours I now commit to combing the woods for sustenance if it were so easy to come by?\" -- Katniss Everdeen, The Hunger Games The Hunger Games trilogy captivates its audience through a storyline dominated by the quest for food, with the vast culinary disparity between the impoverished districts and the opulent Capitol taking center stage. For the Hunger Games characters, food is both a weapon and an act of love, and -- as in today's world -- it is essential to survival. Fortunately, most of us inhabit a more prosperous world than the Hunger Games tributes, one where food can appear with the press of a button. THE UNOFFICIAL RECIPES OF THE HUNGER GAMES Savor the post-apocalyptic world of Panem one dish at a time with The Unofficial Recipes of The Hunger Games. Offering 187 recipes, this cookbook serves fans an authentic taste of the Hunger Games trilogy, whether foraged for in the impoverished District 12 or devoured at the lavish banquets of the Capitol. Satisfy your appetite with the recipes savored by the Hunger Games tributes: \u2022 Peeta's Burnt Raisin Nut Bread \u2022 Orange Chicken in Cream Sauce \u2022 Beloved Lamb Stew With Dried Plums Consume the dishes inspired by the heroic characters of The Hunger Games: \u2022 Creamy Roasted Katniss Soup \u2022 Prim's Birthday Venison Steaks \u2022 Gale's Venison Pot Roast Hunt like Katniss and Gale for adventurous ingredients and create daring dishes: \u2022 Greasy Sae's Holiday Stuffed Possum \u2022 Hazelle's Authentic Beaver Stew Transport your senses into the world of The Hunger Games, Catching Fire and Mockingjay, and relish the delicious adventures of the trilogy over and over again.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=I-ORhT_RY3IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=I-ORhT_RY3IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9781623150273", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "1623150272", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=I-ORhT_RY3IC&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 275, 
+        "previewLink": "http://books.google.com/books?id=I-ORhT_RY3IC&printsec=frontcover&dq=intitle:hunger&hl=&cd=1&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2012", 
+        "publisher": "Callisto Media Inc", 
+        "readingModes": {
+          "image": true, 
+          "text": true
+        }, 
+        "subtitle": "", 
+        "title": "The Unofficial Recipes of The Hunger Games: 187 Recipes Inspired by The Hunger Games, Catching Fire, and Mockingjay"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": true
+        }, 
+        "pdf": {
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=OeuDneRZEpIC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "KtRZ2dOMHSo", 
+      "id": "OeuDneRZEpIC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Part of a major report on world hunger instigated by the World Institute for Development Economics Research, this volume deals with possible solutions to the problem of regular outbreaks of famine in various parts of the world."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OeuDneRZEpIC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Jean Dr\u00e8ze", 
+          "Amartya Sen"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/The_Political_Economy_of_Hunger_Volume_2.html?hl=&id=OeuDneRZEpIC", 
+        "categories": [
+          "Social Science"
+        ], 
+        "contentVersion": "0.5.2.0.preview.2", 
+        "description": "WIDERThe World Institute for Development Economics Research, established in 1984, started work in Helsinki in 1985, with the financial support of the Government of Finland. The principal purpose of the Institute is to help identify and meet the need for policy-oriented socio-economic research on pressing global and development problems and their inter-relationships. WIDER's research projects are grouped into three main themes: hunger and poverty; money, finance, and trade; and development andtechnological transformation.Volume II deals with famine prevention, paying particular attention to sub-Saharan Africa. The topics covered include: the problems of early warning and early action; the politics of famine prevention; the influence of market responses; the role of cash support and employment provision in protecting threatened food entitlements; and long-term issues of reduction of famine vulnerability.In addition to general analyses, the book contains a number of case studies of failures and successes in famine prevention, both in South Asia and in sub-Saharan Africa.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OeuDneRZEpIC&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=OeuDneRZEpIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9780198286363", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "0198286368", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=OeuDneRZEpIC&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 420, 
+        "previewLink": "http://books.google.com/books?id=OeuDneRZEpIC&dq=intitle:hunger&hl=&cd=2&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1991-02-21", 
+        "publisher": "Clarendon Press", 
+        "readingModes": {
+          "image": false, 
+          "text": true
+        }, 
+        "title": "The Political Economy of Hunger: Volume 2: Famine Prevention"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=c-hzOQkvbswC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "KOyJPTmsTUs", 
+      "id": "c-hzOQkvbswC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/c-hzOQkvbswC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Elisabeth L."
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Listen_to_the_hunger.html?hl=&id=c-hzOQkvbswC", 
+        "categories": [
+          "Self-Help"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=c-hzOQkvbswC&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=c-hzOQkvbswC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "0894864343", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9780894864346", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=c-hzOQkvbswC&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 71, 
+        "previewLink": "http://books.google.com/books?id=c-hzOQkvbswC&dq=intitle:hunger&hl=&cd=3&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1987", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "Listen to the hunger"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=flNEAAAAYAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "5pBQLVxMesU", 
+      "id": "flNEAAAAYAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/flNEAAAAYAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Nick Kotz"
+        ], 
+        "averageRating": 1.0, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Hunger_in_America.html?hl=&id=flNEAAAAYAAJ", 
+        "categories": [
+          "Food relief"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=flNEAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=flNEAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "CORNELL:31924000594899", 
+            "type": "OTHER"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=flNEAAAAYAAJ&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 40, 
+        "previewLink": "http://books.google.com/books?id=flNEAAAAYAAJ&dq=intitle:hunger&hl=&cd=4&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1979", 
+        "ratingsCount": 1, 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "subtitle": "The Federal Response", 
+        "title": "Hunger in America"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=PrIbnWbYlM4C&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "fz8EKA4mCgw", 
+      "id": "PrIbnWbYlM4C", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "The fortitude of this woman, now in her late 60s, is a lesson to us all.&quot; \u2014The Bookseller, United Kingdom &quot;This is a fascinating autobiography...&quot; \u2014KLIATT &quot;... a powerful autobiography of a Lesotho elder who tells her life as an African ..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PrIbnWbYlM4C", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Mpho 'M'atsepo Nthunya", 
+          "K. Limakatso Kendall"
+        ], 
+        "averageRating": 4.0, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Singing_Away_the_Hunger.html?hl=&id=PrIbnWbYlM4C", 
+        "categories": [
+          "Biography & Autobiography"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "\"... this gem of a book deserves a wide audience. Appropriate for African and women's studies courses and a must for college and university libraries.\" --Choice \"... Mpho relates the story of her life with an integrity that makes for utterly compelling reading.... The fortitude of this woman, now in her late 60s, is a lesson to us all.\" --The Bookseller, United Kingdom \"This is a fascinating autobiography...\" --KLIATT \"... a powerful autobiography of a Lesotho elder who tells her life as an African woman in South Africa. The focus on black culture and concerns as much as racism allows for an unusual depth of understanding of black concerns and lifestyles in Africa.\" --Reviewer's Bookwatch \"An African woman's poignant and beautifully crafted memoir lyrically portrays the brutal poverty and reliance on ritual that shape the lives of her people, the Basotho.... A commanding and important work that will captivate readers with its unique voice, narrative power, and unforgettable scenes of life in Southern Africa.\" --Kirkus Reviews \"... a stunning autobiography of a remarkable woman... Nthunya's telling is eloquent. Although her voice is generally one of dignified emotional distance, it is punctuated by her very human humor and pain.\" --Publishers Weekly \"... recommended for collections in African folklore.\" --Library Journal \"I am telling my stories in English for many months now, and it is a time for me to see my whole life. I see that things are always changing. I was born in 1930, so I remember many things which were happening in the old days in Lesotho and which happen no more. I lived in Benoni Location for more than ten years, and I saw the Boer policemen taking black people and beating them like dogs. They even took me once, and kept me in one of their jails for a while.\" --Mpho 'M'atsepo Nthunya A compelling and unique autobiography by an African woman with little formal education, less privilege, and almost no experience of books or writing. Mpho's is a voice almost never heard in literature or history, a voice from within the struggle of \"ordinary\" African women to negotiate a world which incorporates ancient pastoral ways and the congestion, brutality, and racist violence of city life. It is also the voice of a born storyteller who has a subject worthy of her gifts--a story for all the world to hear.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PrIbnWbYlM4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=PrIbnWbYlM4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "025321162X", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9780253211620", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=PrIbnWbYlM4C&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 174, 
+        "previewLink": "http://books.google.com/books?id=PrIbnWbYlM4C&printsec=frontcover&dq=intitle:hunger&hl=&cd=5&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1996", 
+        "publisher": "Indiana University Press", 
+        "ratingsCount": 27, 
+        "readingModes": {
+          "image": true, 
+          "text": false
+        }, 
+        "subtitle": "The Autobiography of an African Woman", 
+        "title": "Singing Away the Hunger"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=7e3vAAAAMAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "a+jtzbP88k0", 
+      "id": "7e3vAAAAMAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7e3vAAAAMAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Eug\u00e8ne Ionesco"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Hunger_and_thirst.html?hl=&id=7e3vAAAAMAAJ", 
+        "categories": [
+          "Drama"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7e3vAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=7e3vAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "WISC:89063065304", 
+            "type": "OTHER"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=7e3vAAAAMAAJ&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 83, 
+        "previewLink": "http://books.google.com/books?id=7e3vAAAAMAAJ&dq=intitle:hunger&hl=&cd=6&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1971", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "subtitle": "a play in three acts", 
+        "title": "Hunger and thirst"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=P4veytT711oC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "9gD49QTED7w", 
+      "id": "P4veytT711oC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/P4veytT711oC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Calvin Miller"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/A_hunger_for_meaning.html?hl=&id=P4veytT711oC", 
+        "categories": [
+          "Religion"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=P4veytT711oC&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=P4veytT711oC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "0877848300", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9780877848301", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=P4veytT711oC&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 126, 
+        "previewLink": "http://books.google.com/books?id=P4veytT711oC&dq=intitle:hunger&hl=&cd=7&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1984", 
+        "publisher": "Intervarsity Pr", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "A hunger for meaning"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=5MUsAAAAIAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "WuNsMmq/vHo", 
+      "id": "5MUsAAAAIAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5MUsAAAAIAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Harold Steere Guetzkow", 
+          "Paul Hoover Bowman"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Men_and_Hunger.html?hl=&id=5MUsAAAAIAAJ", 
+        "categories": [
+          "Starvation"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5MUsAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=5MUsAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "UCAL:B3799099", 
+            "type": "OTHER"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=5MUsAAAAIAAJ&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 72, 
+        "previewLink": "http://books.google.com/books?id=5MUsAAAAIAAJ&dq=intitle:hunger&hl=&cd=8&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1946", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "subtitle": "A Psychological Manual for Relief Workers", 
+        "title": "Men and Hunger"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=7gIcAQAAMAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "9cAAw8dHbao", 
+      "id": "7gIcAQAAMAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7gIcAQAAMAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Satya Dev Jaggi"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/End_of_hunger.html?hl=&id=7gIcAQAAMAAJ", 
+        "categories": [
+          "Drama"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7gIcAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=7gIcAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "UOM:39015059722234", 
+            "type": "OTHER"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=7gIcAQAAMAAJ&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 44, 
+        "previewLink": "http://books.google.com/books?id=7gIcAQAAMAAJ&dq=intitle:hunger&hl=&cd=9&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1967", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "End of hunger"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=kdLa7L18tXcC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "CfSCwSG4VyA", 
+      "id": "kdLa7L18tXcC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Studies the political, social, and scientific-technical reasons for world food shortages, and focuses on possible approaches to increasing food production."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kdLa7L18tXcC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Nathan Aaseng"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Ending_World_Hunger.html?hl=&id=kdLa7L18tXcC", 
+        "categories": [
+          "Famines."
+        ], 
+        "contentVersion": "1.10.1.0.preview.0", 
+        "description": "Studies the political, social, and scientific-technical reasons for world food shortages, and focuses on possible approaches to increasing food production.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kdLa7L18tXcC&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=kdLa7L18tXcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "0531110079", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9780531110072", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=kdLa7L18tXcC&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 143, 
+        "previewLink": "http://books.google.com/books?id=kdLa7L18tXcC&dq=intitle:hunger&hl=&cd=10&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1991", 
+        "publisher": "Franklin Watts", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "Ending World Hunger"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=vll0QgAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "LoG/+9P6iLc", 
+      "id": "vll0QgAACAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vll0QgAACAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Onora O'Neill"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Faces_of_Hunger.html?hl=&id=vll0QgAACAAJ", 
+        "categories": [
+          "Economic development"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "industryIdentifiers": [
+          {
+            "identifier": "0041700376", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9780041700374", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=vll0QgAACAAJ&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 178, 
+        "previewLink": "http://books.google.com/books?id=vll0QgAACAAJ&dq=intitle:hunger&hl=&cd=11&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1986", 
+        "publisher": "Allen & Unwin Australia", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "subtitle": "An Essay on Poverty, Justice, and Development", 
+        "title": "Faces of Hunger"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=sq-m5XEN9iwC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "I8OTm9tCmH4", 
+      "id": "sq-m5XEN9iwC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sq-m5XEN9iwC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Art Beals"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Beyond_hunger.html?hl=&id=sq-m5XEN9iwC", 
+        "categories": [
+          "Religion"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sq-m5XEN9iwC&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=sq-m5XEN9iwC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "088070098X", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9780880700986", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=sq-m5XEN9iwC&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 225, 
+        "previewLink": "http://books.google.com/books?id=sq-m5XEN9iwC&dq=intitle:hunger&hl=&cd=12&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1985-03", 
+        "publisher": "Multnomah", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "subtitle": "a biblical mandate for social responsibility", 
+        "title": "Beyond hunger"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=kVg7AAAAMAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "aVyXPZvsTjA", 
+      "id": "kVg7AAAAMAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kVg7AAAAMAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Manuel T. Cases"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Greed_and_hunger.html?hl=&id=kVg7AAAAMAAJ", 
+        "categories": [
+          "History"
+        ], 
+        "contentVersion": "0.1.1.0.preview.0", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kVg7AAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=kVg7AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "UOM:39015047624401", 
+            "type": "OTHER"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=kVg7AAAAMAAJ&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 247, 
+        "previewLink": "http://books.google.com/books?id=kVg7AAAAMAAJ&dq=intitle:hunger&hl=&cd=13&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1967", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "Greed and hunger ..."
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": true
+        }, 
+        "pdf": {
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=HIb3kw6G3ugC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "aRLMjKyAoaA", 
+      "id": "HIb3kw6G3ugC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Post-Auschwitz biblical hermeneutic by Johann Baptist Metz and Dorothee Solle is set in dialogue with Post-colonial biblical hermeneutic focusing on resistance against destruction of biblical text through fascist or colonial interpretation."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HIb3kw6G3ugC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Julia D. E. Prinz"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Endangering_Hunger_for_God.html?hl=&id=HIb3kw6G3ugC", 
+        "categories": [
+          "Social Science"
+        ], 
+        "contentVersion": "0.0.1.0.preview.2", 
+        "description": "Post-Auschwitz biblical hermeneutic by Johann Baptist Metz and Dorothee Solle is set in dialogue with Post-colonial biblical hermeneutic focusing on resistance against destruction of biblical text through fascist or colonial interpretation. This dialogue is brought into the self-implicative dynamic of Biblical Spirituality research, reflecting the authors own context of engaging biblical text.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HIb3kw6G3ugC&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=HIb3kw6G3ugC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "382580495X", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9783825804954", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=HIb3kw6G3ugC&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 275, 
+        "previewLink": "http://books.google.com/books?id=HIb3kw6G3ugC&dq=intitle:hunger&hl=&cd=14&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2007", 
+        "publisher": "LIT Verlag", 
+        "readingModes": {
+          "image": false, 
+          "text": true
+        }, 
+        "subtitle": "Johann Baptist Metz and Dorothee S\u00f6lle at the Interface of Biblical Hermeneutic and Christian Spirituality", 
+        "title": "Endangering Hunger for God"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=AaAlAQAAIAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "5vceduo6TEg", 
+      "id": "AaAlAQAAIAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Testimonies and photographs resulting from visits in 2002 to projects to help the starving and disabled in Afghanistan, Cambodia, Sierra Leone and Guinea, later used for a worldwide campagn by United Colors of Benetton."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AaAlAQAAIAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "James Mollison", 
+          "Amy Flanagan"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Hunger.html?hl=&id=AaAlAQAAIAAJ", 
+        "categories": [
+          "History"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "Testimonies and photographs resulting from visits in 2002 to projects to help the starving and disabled in Afghanistan, Cambodia, Sierra Leone and Guinea, later used for a worldwide campagn by United Colors of Benetton.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AaAlAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=AaAlAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "UCSC:32106017265312", 
+            "type": "OTHER"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=AaAlAQAAIAAJ&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 118, 
+        "previewLink": "http://books.google.com/books?id=AaAlAQAAIAAJ&dq=intitle:hunger&hl=&cd=15&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2003", 
+        "publisher": "Skira - Berenice", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "Hunger"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=ymjDoQEACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "zakNKRFP1JQ", 
+      "id": "ymjDoQEACAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Long ago the districts waged war on the Capitol and were defeated. As part of the surrender terms, each district agreed to send one boy and one girl to appear in an annual televised event called &quot;The Hunger Games."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ymjDoQEACAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Suzanne Collins"
+        ], 
+        "averageRating": 4.5, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/The_Hunger_Games.html?hl=&id=ymjDoQEACAAJ", 
+        "categories": [
+          "Reality television programs"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "Katniss is a 16-year-old girl living with her mother and younger sister in the poorest district of Panem, the remains of what used be the United States. Long ago the districts waged war on the Capitol and were defeated. As part of the surrender terms, each district agreed to send one boy and one girl to appear in an annual televised event called \"The Hunger Games.\" The terrain, rules, and level of audience participation may change but one thing is constant: kill or be killed. When Kat's sister is chosen by lottery, Kat steps up to go in her place.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ymjDoQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=ymjDoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "1407109375", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9781407109374", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=ymjDoQEACAAJ&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 1315, 
+        "previewLink": "http://books.google.com/books?id=ymjDoQEACAAJ&dq=intitle:hunger&hl=&cd=16&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2012", 
+        "ratingsCount": 2, 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "The Hunger Games"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=T6DLBRDx7mcC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "soHhBbvmofQ", 
+      "id": "T6DLBRDx7mcC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/T6DLBRDx7mcC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Hunger Project"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Ending_hunger.html?hl=&id=T6DLBRDx7mcC", 
+        "categories": [
+          "Famines"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=T6DLBRDx7mcC&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=T6DLBRDx7mcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "003006189X", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9780030061899", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=T6DLBRDx7mcC&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 430, 
+        "previewLink": "http://books.google.com/books?id=T6DLBRDx7mcC&dq=intitle:hunger&hl=&cd=17&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1985-09", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "subtitle": "an idea whose time has come", 
+        "title": "Ending hunger"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=QmKN12ClaNEC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "+kWcX4bjMak", 
+      "id": "QmKN12ClaNEC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QmKN12ClaNEC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Max Garland"
+        ], 
+        "averageRating": 5.0, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Hunger_Wide_as_Heaven.html?hl=&id=QmKN12ClaNEC", 
+        "categories": [
+          "Poetry"
+        ], 
+        "contentVersion": "1.1.1.0.preview.0", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QmKN12ClaNEC&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=QmKN12ClaNEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "1880834693", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9781880834695", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=QmKN12ClaNEC&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 84, 
+        "previewLink": "http://books.google.com/books?id=QmKN12ClaNEC&dq=intitle:hunger&hl=&cd=18&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2006-01-01", 
+        "publisher": "Cleveland St U Poetry Cent", 
+        "ratingsCount": 1, 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "Hunger Wide as Heaven"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=FxCzAAAAIAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "/FF58CKITBM", 
+      "id": "FxCzAAAAIAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FxCzAAAAIAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "George W. Schuyler"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Hunger_in_a_Land_of_Plenty.html?hl=&id=FxCzAAAAIAAJ", 
+        "categories": [
+          "Social Science"
+        ], 
+        "contentVersion": "0.11.2.0.preview.0", 
+        "industryIdentifiers": [
+          {
+            "identifier": "STANFORD:36105037374134", 
+            "type": "OTHER"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=FxCzAAAAIAAJ&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 262, 
+        "previewLink": "http://books.google.com/books?id=FxCzAAAAIAAJ&dq=intitle:hunger&hl=&cd=19&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1980", 
+        "publisher": "Transaction Pub", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "Hunger in a Land of Plenty"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=Cx3DbwAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "mgd4RcDdKSk", 
+      "id": "Cx3DbwAACAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "The eleventh crazy adventure in this hugely popular comedy horror series for ghouls and girls - with four free collector&#39;s cards inside!"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Cx3DbwAACAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Tommy Donbavand"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Hunger_of_the_Yeti.html?hl=&id=Cx3DbwAACAAJ", 
+        "categories": [
+          "Children's stories"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "The eleventh crazy adventure in this hugely popular comedy horror series for ghouls and girls - with four free collector's cards inside! Given that rock zombie Vein is now living in deepest darkest Tibet, the quest to return his tongue proves surprisingly easy for Luke, Resus and Cleo. What the trio hadn't bargained on, however, was a ravenous baby yeti stowed away in Resus' cloak and following them home! When the yeti's angry mother appears Scream Street in search of her missing offspring, things really start to get hairy. Meanwhile, the clock is ticking...", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Cx3DbwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=Cx3DbwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "1406319155", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9781406319156", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=Cx3DbwAACAAJ&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 125, 
+        "previewLink": "http://books.google.com/books?id=Cx3DbwAACAAJ&dq=intitle:hunger&hl=&cd=20&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2011", 
+        "publisher": "Walker", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "Hunger of the Yeti"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=dsYlAQAAMAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "vemRCjxHAtc", 
+      "id": "dsYlAQAAMAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Research has shown that children suffering from severe or mild-to-moderate undernutrition perform poorly on perceptual, cognitive, and psychological tests. Examples of these are cited."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dsYlAQAAMAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Relationships_of_Hunger_and_Malnutrition.html?hl=&id=dsYlAQAAMAAJ", 
+        "categories": [
+          "Intellect"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "Abstract: An informational booklet for school nutrition educators advances the theory that a definite connection exists between adequate nutrition and child's performance in school. The text examines how malnutrition and hunger affect learning ability and behavior, and considers this information in light of the School Breakfast Program and the School Lunch Program. Information is drawn from a variety of sources, ranging from international research studies and clinical findings to classroom observations and federal legislation. Research has shown that children suffering from severe or mild-to-moderate undernutrition perform poorly on perceptual, cognitive, and psychological tests. Examples of these are cited. While participation in the School Lunch or Breakfast Programs does not ensure academic success or \"normal\" behavior, such programs represent a notable nutrition-wide effort to alleviate or prevent undernutrition and hunger in school children and the associated potential impairments in learning ability and behavior. (wz)", 
+        "industryIdentifiers": [
+          {
+            "identifier": "IND:30000055873693", 
+            "type": "OTHER"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=dsYlAQAAMAAJ&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 23, 
+        "previewLink": "http://books.google.com/books?id=dsYlAQAAMAAJ&dq=intitle:hunger&hl=&cd=21&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1982*", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "Relationships of Hunger and Malnutrition to Learning Ability and Behavior"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=Sc_YygAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "1BHmMxW97oI", 
+      "id": "Sc_YygAACAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Sc_YygAACAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Jane Cobden Unwin"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/The_Land_Hunger.html?hl=&id=Sc_YygAACAAJ", 
+        "categories": [
+          "Land tenure"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "industryIdentifiers": [
+          {
+            "identifier": "OCLC:216900060", 
+            "type": "OTHER"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=Sc_YygAACAAJ&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "previewLink": "http://books.google.com/books?id=Sc_YygAACAAJ&dq=intitle:hunger&hl=&cd=22&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1913", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "subtitle": "Life Under Monopoly", 
+        "title": "The Land Hunger"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=YYxVAAAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "DTSTef0DNxc", 
+      "id": "YYxVAAAACAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "For children; Popular account of expeditions by G. Grey, J.L. Stokes, E.J. Eyre, F.W.L. Leichhardt, C. Sturt, T. Mitchell, E.B.C. Kennedy, A.C. Gregory, J. Mcdouall Stuart, R. OHara Burke, W.J. Wills, J. King, C. Gray, J. McKinlay, P.E. ..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YYxVAAAACAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Meredith Hooper"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Doctor_Hunger_Captain_Thirst.html?hl=&id=YYxVAAAACAAJ", 
+        "categories": [
+          "Australia"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "For children; Popular account of expeditions by G. Grey, J.L. Stokes, E.J. Eyre, F.W.L. Leichhardt, C. Sturt, T. Mitchell, E.B.C. Kennedy, A.C. Gregory, J. Mcdouall Stuart, R. OHara Burke, W.J. Wills, J. King, C. Gray, J. McKinlay, P.E. Warburton, J. Forrest, E. Giles and D.W. Carnegie; includes contact with Aborigines and use of Aboriginal guides.", 
+        "industryIdentifiers": [
+          {
+            "identifier": "0454003641", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9780454003642", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=YYxVAAAACAAJ&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 144, 
+        "previewLink": "http://books.google.com/books?id=YYxVAAAACAAJ&dq=intitle:hunger&hl=&cd=23&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1982", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "subtitle": "Stories of Australian Explorers", 
+        "title": "Doctor Hunger & Captain Thirst"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=TQjbAAAAMAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "S0fA65fv5kM", 
+      "id": "TQjbAAAAMAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "How has the act of eating become a metaphor for compliance, starvation the language of protest?"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TQjbAAAAMAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Maud Ellmann"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/The_hunger_artists.html?hl=&id=TQjbAAAAMAAJ", 
+        "categories": [
+          "Art"
+        ], 
+        "contentVersion": "1.1.0.0.preview.0", 
+        "description": "How has the act of eating become a metaphor for compliance, starvation the language of protest? How does the rejection of food become the rejection of intolerable social constraints? The author unravels the answers to these questions and more as she brilliantly explores the relationship between bodily hunger and verbal expression.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TQjbAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=TQjbAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "UOM:39015029733618", 
+            "type": "OTHER"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=TQjbAAAAMAAJ&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 136, 
+        "previewLink": "http://books.google.com/books?id=TQjbAAAAMAAJ&dq=intitle:hunger&hl=&cd=24&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1993-02-01", 
+        "publisher": "Harvard Univ Pr", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "subtitle": "starving, writing, and imprisonment", 
+        "title": "The hunger artists"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=1BmFAAAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "d1J1la8RieM", 
+      "id": "1BmFAAAACAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1BmFAAAACAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Anne Else", 
+          "Downtown Community Ministry Wellington Incorporated."
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Hidden_Hunger.html?hl=&id=1BmFAAAACAAJ", 
+        "categories": [
+          "Food habits"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "industryIdentifiers": [
+          {
+            "identifier": "0473063573", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9780473063573", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=1BmFAAAACAAJ&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 36, 
+        "previewLink": "http://books.google.com/books?id=1BmFAAAACAAJ&dq=intitle:hunger&hl=&cd=25&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1999", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "subtitle": "Food & Low Income in New Zealand", 
+        "title": "Hidden Hunger"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=bEsUwAzWUEQC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "MT2BA8ZArvg", 
+      "id": "bEsUwAzWUEQC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bEsUwAzWUEQC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Hunger Free America (Organization)", 
+          "Unilever Bestfoods"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Cooking_up_an_end_to_childhood_hunger_in.html?hl=&id=bEsUwAzWUEQC", 
+        "categories": [
+          "Biography & Autobiography"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "industryIdentifiers": [
+          {
+            "identifier": "192904965X", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9781929049653", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=bEsUwAzWUEQC&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 144, 
+        "previewLink": "http://books.google.com/books?id=bEsUwAzWUEQC&dq=intitle:hunger&hl=&cd=26&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2001-12-31", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "subtitle": "celebrity cookbook", 
+        "title": "Cooking up an end to childhood hunger in America"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=Df2-PAAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "xrO+OKfDNSs", 
+      "id": "Df2-PAAACAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Df2-PAAACAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Gerard Moore"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/A_Hunger_for_Reconciliation.html?hl=&id=Df2-PAAACAAJ", 
+        "categories": [
+          "Reconciliation"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "industryIdentifiers": [
+          {
+            "identifier": "1876295864", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9781876295868", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=Df2-PAAACAAJ&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 112, 
+        "previewLink": "http://books.google.com/books?id=Df2-PAAACAAJ&dq=intitle:hunger&hl=&cd=27&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2004", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "subtitle": "In Society and the Church", 
+        "title": "A Hunger for Reconciliation"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=YAzToAEACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "0jLsciQ+3uk", 
+      "id": "YAzToAEACAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "(Piano/Vocal/Guitar Songbook)."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YAzToAEACAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Hal Leonard Publishing Corporation"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/The_Hunger_Games_Catching_Fire.html?hl=&id=YAzToAEACAAJ", 
+        "categories": [
+          "Music"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "(Piano/Vocal/Guitar Songbook). A dozen songs from the second installment of the Hunger Games trilogy, released in 2013, are included in this folio of piano/vocal/guitar arrangements. It features the Grammy-nominated lead song \"Atlas\" by Coldplay, plus: Silouettes (Of Monsters and Men) * We Remain (Christina Aguilera) * Who We Are (Imagine Dragons) * Everybody Wants to Rule the World (Lorde) * Mirror (Ellie Goulding) * and more.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YAzToAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=YAzToAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "1480371017", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9781480371019", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=YAzToAEACAAJ&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 82, 
+        "previewLink": "http://books.google.com/books?id=YAzToAEACAAJ&dq=intitle:hunger&hl=&cd=28&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2014-06-01", 
+        "publisher": "Hal Leonard Publishing Corporation", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "subtitle": "Music from the Motion Picture Soundtrack", 
+        "title": "The Hunger Games: Catching Fire"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=UarTlwEACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "cjZA1TnIQxQ", 
+      "id": "UarTlwEACAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "In a style somewhat reminiscent of Joyce&#39;s Dubliners, the stories deal with psychological and social alienation. Dambudzo Marechera&#39;s work is not material typically associated with African literature."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UarTlwEACAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Dambudzo Marechera"
+        ], 
+        "averageRating": 4.0, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/The_House_of_Hunger.html?hl=&id=UarTlwEACAAJ", 
+        "categories": [
+          "Fiction"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "Winner of the Guardian Fiction Prize, 1979 and first published in 1978, The House of Hunger is a selection of interconnected short stories that tell of Zimbabwe in chaos. In a style somewhat reminiscent of Joyce's Dubliners, the stories deal with psychological and social alienation. Dambudzo Marechera's work is not material typically associated with African literature. His stories are psychologically, rather than politically, motivated as his depictions of living in exile and outsiderhood show.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UarTlwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=UarTlwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "1478604735", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9781478604730", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=UarTlwEACAAJ&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 159, 
+        "previewLink": "http://books.google.com/books?id=UarTlwEACAAJ&dq=intitle:hunger&hl=&cd=29&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2013-02-01", 
+        "publisher": "Waveland PressInc", 
+        "ratingsCount": 13, 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "The House of Hunger"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=PKuXAgAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "ltbOdFffD3c", 
+      "id": "PKuXAgAAQBAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Ever since strange, sexy Beth sank her teeth into him, John&#39;s had the hunger ... and it&#39;s growing. He wants meat - raw meat. He wants to be out in the woods, under the moon. Can John control the beast inside before it controls him?"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PKuXAgAAQBAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Alan Gibbons"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Night_Hunger.html?hl=&id=PKuXAgAAQBAJ", 
+        "categories": [
+          "Juvenile Fiction"
+        ], 
+        "contentVersion": "1.1.1.0.preview.0", 
+        "description": "Ever since strange, sexy Beth sank her teeth into him, John's had the hunger ... and it's growing. He wants meat - raw meat. He wants to be out in the woods, under the moon. Can John control the beast inside before it controls him?", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PKuXAgAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=PKuXAgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9781781121801", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "178112180X", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=PKuXAgAAQBAJ&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 64, 
+        "previewLink": "http://books.google.com/books?id=PKuXAgAAQBAJ&dq=intitle:hunger&hl=&cd=30&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2013-01-01", 
+        "publisher": "Stoke Books", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "Night Hunger"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=A-ftnQEACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "5SdryW8oJD8", 
+      "id": "A-ftnQEACAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Sean Kelly is recognised as one of the top ten professional cyclists of all time and inspired admiration and respect from his rivals, not just because of the races he won but the manner he conducted himself."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/A-ftnQEACAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Sean Kelly"
+        ], 
+        "averageRating": 4.0, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Hunger.html?hl=&id=A-ftnQEACAAJ", 
+        "categories": [
+          "Bicycle racing"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "Sean Kelly is recognised as one of the top ten professional cyclists of all time and inspired admiration and respect from his rivals, not just because of the races he won but the manner he conducted himself. Born and raised on a farm in rural Ireland, Kelly identified cycling as an escape route to a different, possibly better life. He turned professional in 1977 and his career spanned 18 seasons. His victories in the toughest single-day Classics, Paris-Roubaix, Liege-Bastogne-Liege, Milan-San Remo and the Tour of Lombardy - known as the monuments of the cycling world - earned him the nickname King Kelly.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=A-ftnQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=A-ftnQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "0956781438", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9780956781437", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=A-ftnQEACAAJ&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 305, 
+        "previewLink": "http://books.google.com/books?id=A-ftnQEACAAJ&dq=intitle:hunger&hl=&cd=31&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2013", 
+        "ratingsCount": 16, 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "subtitle": "The Autobiography", 
+        "title": "Hunger"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=O4UOogEACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "HLOCKQ7VG88", 
+      "id": "O4UOogEACAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "1867: The year of the great famine in Finland."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/O4UOogEACAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Aki Ollikainen", 
+          "Emily Jeremiah", 
+          "Fleur Jeremiah"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/White_Hunger.html?hl=&id=O4UOogEACAAJ", 
+        "categories": [
+          "Finland"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "1867: The year of the great famine in Finland. Mirja, a farmer's wife from the north, and her two young children set off on foot through the snow. Their goal: St Petersburg - a place which, rumours suggest, enjoys bread in plenty. However others are also heading south - everyone equally desperate to survive.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=O4UOogEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=O4UOogEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "1908670207", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9781908670205", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=O4UOogEACAAJ&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 128, 
+        "previewLink": "http://books.google.com/books?id=O4UOogEACAAJ&dq=intitle:hunger&hl=&cd=32&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2015-03-01", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "White Hunger"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": true
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=3SsxBgAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "BXkAfbFKk6I", 
+      "id": "3SsxBgAAQBAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Beautifully poetic, funny and highly relevant, Nkosinathi Sithole\u2019s debut novel highlights the ongoing plight of many rural South Africans and the power of a community working together to bring about change."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3SsxBgAAQBAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Nkosinathi Sithole"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Hunger_Eats_a_Man.html?hl=&id=3SsxBgAAQBAJ", 
+        "contentVersion": "1.3.2.0.preview.2", 
+        "description": "When Father Gumede, known as Priest, loses his job as a farmhand, he realises he can\u2019t afford to love his neighbour as he does himself. Despondent and enraged, Priest cuts off all ties to the church and politics, determined to make a living \u2013 at whatever cost. It will take a strange story written by his son Sandile \u2013 a comical, terrifying and prophetic tale in which the downtrodden rise up to march on the wealth of a neighbouring suburb \u2013 to show Priest the hope and humanity inherent in the human spirit. Beautifully poetic, funny and highly relevant, Nkosinathi Sithole\u2019s debut novel highlights the ongoing plight of many rural South Africans and the power of a community working together to bring about change.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3SsxBgAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=3SsxBgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9780143531449", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "0143531441", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=3SsxBgAAQBAJ&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 176, 
+        "previewLink": "http://books.google.com/books?id=3SsxBgAAQBAJ&dq=intitle:hunger&hl=&cd=33&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2015-02-01", 
+        "publisher": "Random House Struik", 
+        "readingModes": {
+          "image": false, 
+          "text": true
+        }, 
+        "title": "Hunger Eats a Man"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "acsTokenLink": "http://books.google.com/books/download/The_Hunger_Games_Trilogy-sample-epub.acsm?id=zM-vZ-JiSFYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "pdf": {
+          "acsTokenLink": "http://books.google.com/books/download/The_Hunger_Games_Trilogy-sample-pdf.acsm?id=zM-vZ-JiSFYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=zM-vZ-JiSFYC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "TGe7E8WYLJU", 
+      "id": "zM-vZ-JiSFYC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "buyLink": "http://books.google.com/books?id=zM-vZ-JiSFYC&dq=intitle:hunger&hl=&buy=&source=gbs_api", 
+        "country": "US", 
+        "isEbook": true, 
+        "listPrice": {
+          "amount": 36.97, 
+          "currencyCode": "USD"
+        }, 
+        "offers": [
+          {
+            "finskyOfferType": 1, 
+            "listPrice": {
+              "amountInMicros": 36970000.0, 
+              "currencyCode": "USD"
+            }, 
+            "retailPrice": {
+              "amountInMicros": 21160000.0, 
+              "currencyCode": "USD"
+            }
+          }
+        ], 
+        "retailPrice": {
+          "amount": 21.16, 
+          "currencyCode": "USD"
+        }, 
+        "saleability": "FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "The extraordinary, ground breaking New York Times bestsellers The Hunger Games and Catching Fire, along with the third book in The Hunger Games trilogy by Suzanne Collins, Mockingjay, are available for the first time ever in e-book."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zM-vZ-JiSFYC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Suzanne Collins"
+        ], 
+        "averageRating": 4.0, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/The_Hunger_Games_Trilogy.html?hl=&id=zM-vZ-JiSFYC", 
+        "categories": [
+          "Juvenile Fiction"
+        ], 
+        "contentVersion": "1.16.16.0.preview.3", 
+        "description": "The stunning Hunger Games trilogy is complete! The extraordinary, ground breaking New York Times bestsellers The Hunger Games and Catching Fire, along with the third book in The Hunger Games trilogy by Suzanne Collins, Mockingjay, are available for the first time ever in e-book. Stunning, gripping, and powerful. The trilogy is now complete!", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zM-vZ-JiSFYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=zM-vZ-JiSFYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9780545387200", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "0545387205", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=zM-vZ-JiSFYC&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 1000, 
+        "previewLink": "http://books.google.com/books?id=zM-vZ-JiSFYC&printsec=frontcover&dq=intitle:hunger&hl=&cd=34&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2011-05-01", 
+        "publisher": "Scholastic Inc.", 
+        "ratingsCount": 2420, 
+        "readingModes": {
+          "image": true, 
+          "text": true
+        }, 
+        "title": "The Hunger Games Trilogy"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "acsTokenLink": "http://books.google.com/books/download/Hunger-sample-pdf.acsm?id=DObqkUy6DgMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=DObqkUy6DgMC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "7DJmvPfjSpA", 
+      "id": "DObqkUy6DgMC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Since Then, It Has Been Hailed By Readers And Critics Alike As A Modern Classic Of Hindi Literature. The Novel Is Centred Round Panchu Gopal Mukherjee, The Headmaster Of A Village School, Which He Himself Had Built And Maintained."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DObqkUy6DgMC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Amr\u0325tal\u0101la N\u0101gara"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Hunger.html?hl=&id=DObqkUy6DgMC", 
+        "categories": [
+          "Famines"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "Amritlal Nagar, Considered The Doyen Among Hindi Novelists Today, Wrote Bhookh (Hunger) Way Back In 1946, Provoked By The War Time Famine In Pre-Partition Bengal. Since Then, It Has Been Hailed By Readers And Critics Alike As A Modern Classic Of Hindi Literature. The Novel Is Centred Round Panchu Gopal Mukherjee, The Headmaster Of A Village School, Which He Himself Had Built And Maintained. It Is Through The Eyes, Feelings, Thoughts And Memories Of Mukherjee That The Horrors Of The Great Famine Are Delineated. The Village Is Getting Slowly Deserted With The Living Skeletons Slowly Migrating In All Directions And Slowly Dying On The Roadside. Hunger Is Ravishing The Land With Predatory Birds And Animals Gorging On Dead Bodies. Yet The Local Zamindar And The Leading Trader Are Least Affected. In Fact, They Are Thriving, Helping The War Effort And Co-Operating With Local Authorities. Mukherjee Himself Is Reduced To Penury, Wondering Whether To Sell Off The Few Ornaments Left In The House Or The Furniture Of His Beloved School. He Sees All Round Unbearable Sights His Brother Misbehaving With His Own Wife, The Carpenter S Widow Selling Her Body, The Zamindar Revelling In Drinks, A Food Riot Being Quenched By The Police, The Trader Arranging A Feast For Brahmins To Wipe Out His Sins And The Hungry Fighting With Dogs And Scraping The Food From The Discarded Banana Leaves. The Novel, Yet, Ends With Hope, When Mukherjee Picks Up A Newly Delivered Child, Whose Mother Has Fallen Dead And The Life Force Had Ejected The Child Out Of The Womb. He Wrenches The Umbilical Cord And Takes The Child Home, Where His Family Members Are Dead Or Dispersed. Only His Starving Wide-Eyed Wife Mangala Is There Intrigued But Happy By The New Arrival.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DObqkUy6DgMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=DObqkUy6DgMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9788170172604", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "8170172608", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=DObqkUy6DgMC&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 172, 
+        "previewLink": "http://books.google.com/books?id=DObqkUy6DgMC&printsec=frontcover&dq=intitle:hunger&hl=&cd=35&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1990-01-01", 
+        "publisher": "Abhinav Publications", 
+        "readingModes": {
+          "image": true, 
+          "text": false
+        }, 
+        "subtitle": "A Novel", 
+        "title": "Hunger"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=cuKoGAAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "6FsLGtW3ASM", 
+      "id": "cuKoGAAACAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cuKoGAAACAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Amartya Kumar Sen"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Hunger_in_the_Contemporary_World.html?hl=&id=cuKoGAAACAAJ", 
+        "categories": [
+          "Agriculture and state"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "industryIdentifiers": [
+          {
+            "identifier": "OCLC:236146419", 
+            "type": "OTHER"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=cuKoGAAACAAJ&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 24, 
+        "previewLink": "http://books.google.com/books?id=cuKoGAAACAAJ&dq=intitle:hunger&hl=&cd=36&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1997", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "Hunger in the Contemporary World"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=FFADogEACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "tz39EkoLL/g", 
+      "id": "FFADogEACAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "I collect the most representative online comments by readers and viewers in the third part, reaching the conclusion that although the movie seems to be well received, many viewers who read the book before watching the film, feel that key ..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FFADogEACAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Lu\u010dka Kova\u010d", 
+          "Jerneja Petri\u010d"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/The_Hunger_Games.html?hl=&id=FFADogEACAAJ", 
+        "contentVersion": "preview-1.0.0", 
+        "description": "In the first part of my thesis, I explore the point of view and focalization of The Hunger Games, a novel by Suzanne Collins that was first published in 2008 and made into a film in 2012, and look at the theory of viewer empathy according to the point of view. Written in the first person present tense, The Hunger Games is a dystopian society based story of a teenage girl who finds herself in a televised fight to the death and can only survive by pretending that she is in love. As the key conflict is only present in her mind and never acted or spoken aloud, it presents a unique challenge in transforming the story into a film. The differences made during the transformation are detailed in the second part of my thesis. I collect the most representative online comments by readers and viewers in the third part, reaching the conclusion that although the movie seems to be well received, many viewers who read the book before watching the film, feel that key points are missing in the movie version.", 
+        "industryIdentifiers": [
+          {
+            "identifier": "OCLC:892567698", 
+            "type": "OTHER"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=FFADogEACAAJ&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 110, 
+        "previewLink": "http://books.google.com/books?id=FFADogEACAAJ&dq=intitle:hunger&hl=&cd=37&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2014", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "subtitle": "Point of View in Book and Film with Online Audience Reception", 
+        "title": "The Hunger Games"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=V7D6xS-muIoC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "1Wxbm753FVY", 
+      "id": "V7D6xS-muIoC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/V7D6xS-muIoC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Isaac Rosenfeld", 
+          "Mark Shechner"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Preserving_the_Hunger.html?hl=&id=V7D6xS-muIoC", 
+        "categories": [
+          "Literary Criticism"
+        ], 
+        "contentVersion": "0.2.1.0.preview.1", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=V7D6xS-muIoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=V7D6xS-muIoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "0814318800", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9780814318805", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=V7D6xS-muIoC&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 463, 
+        "previewLink": "http://books.google.com/books?id=V7D6xS-muIoC&printsec=frontcover&dq=intitle:hunger&hl=&cd=38&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1988", 
+        "publisher": "Wayne State University Press", 
+        "readingModes": {
+          "image": true, 
+          "text": false
+        }, 
+        "subtitle": "An Isaac Rosenfeld Reader", 
+        "title": "Preserving the Hunger"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=u4opNFZSbn8C&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "FNl5fmgSK1w", 
+      "id": "u4opNFZSbn8C", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "buyLink": "http://books.google.com/books?id=u4opNFZSbn8C&dq=intitle:hunger&hl=&buy=&source=gbs_api", 
+        "country": "US", 
+        "isEbook": true, 
+        "listPrice": {
+          "amount": 11.2, 
+          "currencyCode": "USD"
+        }, 
+        "offers": [
+          {
+            "finskyOfferType": 1, 
+            "listPrice": {
+              "amountInMicros": 11200000.0, 
+              "currencyCode": "USD"
+            }, 
+            "retailPrice": {
+              "amountInMicros": 8960000.0, 
+              "currencyCode": "USD"
+            }
+          }
+        ], 
+        "retailPrice": {
+          "amount": 8.96, 
+          "currencyCode": "USD"
+        }, 
+        "saleability": "FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/u4opNFZSbn8C", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Frankie Dean-Deliu"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Embarking_on_an_Intimate_Journey_with_th.html?hl=&id=u4opNFZSbn8C", 
+        "categories": [
+          "Religion"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=u4opNFZSbn8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=u4opNFZSbn8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9781434912152", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "1434912159", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=u4opNFZSbn8C&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 106, 
+        "previewLink": "http://books.google.com/books?id=u4opNFZSbn8C&printsec=frontcover&dq=intitle:hunger&hl=&cd=39&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2011-10", 
+        "publisher": "Dorrance Publishing", 
+        "readingModes": {
+          "image": true, 
+          "text": false
+        }, 
+        "title": "Embarking on an Intimate Journey with the Holy Spirit to Satisfy Your Hunger for More of God and to Discover the Knowledge of the Power of Prayer"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "acsTokenLink": "http://books.google.com/books/download/Hunger-sample-epub.acsm?id=XT2WzJuNPZ8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=XT2WzJuNPZ8C&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "mZHW8G2YiKE", 
+      "id": "XT2WzJuNPZ8C", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "buyLink": "http://books.google.com/books?id=XT2WzJuNPZ8C&dq=intitle:hunger&hl=&buy=&source=gbs_api", 
+        "country": "US", 
+        "isEbook": true, 
+        "listPrice": {
+          "amount": 10.99, 
+          "currencyCode": "USD"
+        }, 
+        "offers": [
+          {
+            "finskyOfferType": 1, 
+            "listPrice": {
+              "amountInMicros": 10990000.0, 
+              "currencyCode": "USD"
+            }, 
+            "retailPrice": {
+              "amountInMicros": 10990000.0, 
+              "currencyCode": "USD"
+            }
+          }
+        ], 
+        "retailPrice": {
+          "amount": 10.99, 
+          "currencyCode": "USD"
+        }, 
+        "saleability": "FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Every day, we wake up hungry. Every day, we break our fast. Hunger is both a natural and an unnatural human condition. In Hunger, Sharman Apt Russell explores the range of this primal experience."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XT2WzJuNPZ8C", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Sharman Apt Russell"
+        ], 
+        "averageRating": 3.5, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Hunger.html?hl=&id=XT2WzJuNPZ8C", 
+        "categories": [
+          "BUSINESS & ECONOMICS"
+        ], 
+        "contentVersion": "0.2.2.0.preview.2", 
+        "description": "Every day, we wake up hungry. Every day, we break our fast. Hunger is both a natural and an unnatural human condition. In Hunger, Sharman Apt Russell explores the range of this primal experience. Step by step, Russell takes us through the physiology of hunger, from eighteen hours without food to thirty-six hours to three days to seven days to thirty days. In quiet, elegant prose, she asks a question as big as history and as everyday as skipping lunch: How does hunger work?", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XT2WzJuNPZ8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=XT2WzJuNPZ8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9780786722396", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "0786722398", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=XT2WzJuNPZ8C&dq=intitle:hunger&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 273, 
+        "previewLink": "http://books.google.com/books?id=XT2WzJuNPZ8C&printsec=frontcover&dq=intitle:hunger&hl=&cd=40&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2008-08-01", 
+        "publisher": "Basic Books", 
+        "ratingsCount": 50, 
+        "readingModes": {
+          "image": false, 
+          "text": true
+        }, 
+        "subtitle": "An Unnatural History", 
+        "title": "Hunger"
+      }
+    }
+  ], 
+  "kind": "books#volumes", 
+  "totalItems": 455
+}

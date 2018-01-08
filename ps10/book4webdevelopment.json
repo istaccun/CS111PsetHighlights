@@ -1,0 +1,3315 @@
+{
+  "items": [
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": true
+        }, 
+        "pdf": {
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=P6IW1YU1Vz8C&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "H58FcKNDRj8", 
+      "id": "P6IW1YU1Vz8C", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "buyLink": "http://books.google.com/books?id=P6IW1YU1Vz8C&dq=intitle:web+development&hl=&buy=&source=gbs_api", 
+        "country": "US", 
+        "isEbook": true, 
+        "listPrice": {
+          "amount": 23.99, 
+          "currencyCode": "USD"
+        }, 
+        "offers": [
+          {
+            "finskyOfferType": 1, 
+            "listPrice": {
+              "amountInMicros": 23990000.0, 
+              "currencyCode": "USD"
+            }, 
+            "retailPrice": {
+              "amountInMicros": 14590000.0, 
+              "currencyCode": "USD"
+            }
+          }
+        ], 
+        "retailPrice": {
+          "amount": 14.59, 
+          "currencyCode": "USD"
+        }, 
+        "saleability": "FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Authors Sven L\u00fcppken Markus St\u00e4uble Reviewers Luca Masini Xinyu Liu Senior <br>\nAcquisition Editor David Barnes <b>Development</b> Editor Shilpa Dube Technical <br>\nEditors Dhiraj Bellani ReshmaSundaresan Copy Editor Sumathi Sridhar Indexer<br>\n&nbsp;..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/P6IW1YU1Vz8C", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Sven L\u00fcppken", 
+          "Markus St\u0169ble", 
+          "Markus Stauble"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Spring_Web_Flow_2_Web_Development.html?hl=&id=P6IW1YU1Vz8C", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "2.3.3.0.preview.3", 
+        "description": "Master Spring's well-designed web frameworks to develop powerful web applications", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=P6IW1YU1Vz8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=P6IW1YU1Vz8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9781847195432", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "1847195431", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=P6IW1YU1Vz8C&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 273, 
+        "previewLink": "http://books.google.com/books?id=P6IW1YU1Vz8C&pg=PT11&dq=intitle:web+development&hl=&cd=1&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2009-03-20", 
+        "publisher": "Packt Publishing Ltd", 
+        "readingModes": {
+          "image": true, 
+          "text": true
+        }, 
+        "title": "Spring Web Flow 2 Web Development"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=wrIkWmtt-soC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "kutTqsZiLkE", 
+      "id": "wrIkWmtt-soC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "1.1 FOCUS ON THE USER The purpose of this book is to guide the web <br>\n<b>developer</b> through the process of <b>designing</b> a web site while incorporating the <br>\ninput of the user. It is well- accepted that an information system needs to be <br>\ndeveloped&nbsp;..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wrIkWmtt-soC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Jonathan Lazar"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/User_centered_Web_Development.html?hl=&id=wrIkWmtt-soC", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "Frequently, Web sites are designed without considering the needs of the users. as a result, The Web site often fails to fulfill its intended purpose. User-Centered Web Development guides readers through the process of designing Web-based resources based on the needs of the user. This text will take the reader from the initial idea of developing a Web site, through determining the mission of the Web site, collecting the requirements, designing the pages, performing usability testing, and implementing and managing a Web site. Further, large case studies will assist readers in comprehending how these user-centered design concepts can be applied to real-world settings. the author has shown how to implement his design concepts in three case studies spread throughout the book, a non-profit, An educational Web site and Eastman Kodak.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wrIkWmtt-soC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=wrIkWmtt-soC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "0763714313", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9780763714314", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=wrIkWmtt-soC&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 293, 
+        "previewLink": "http://books.google.com/books?id=wrIkWmtt-soC&pg=PA2&dq=intitle:web+development&hl=&cd=2&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2001", 
+        "publisher": "Jones & Bartlett Learning", 
+        "readingModes": {
+          "image": true, 
+          "text": false
+        }, 
+        "title": "User-centered Web Development"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=GteVGSDixUUC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "y0SIuEdQ/3s", 
+      "id": "GteVGSDixUUC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "George Sontayona f 1863-1952) Over the two years that it has taken to <br>\nconceptualize and write this book, many people have asked me what inspired me <br>\nto write about Web <b>development</b>, and why is this book different from the many <br>\nother&nbsp;..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GteVGSDixUUC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Jessica R. Burdman"
+        ], 
+        "averageRating": 5.0, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Collaborative_Web_Development.html?hl=&id=GteVGSDixUUC", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "Written by a leader in Web development methodologies and processes, Collaborative Web Development brings structure and sanity to what is often an overwhelming and chaotic process. Drawing on the front-line experiences of practicing professionals and numerous real world case studies, the author will help you get a handle on the issues and challenges you face, with proven strategies for effective coordination among team members and clients, a smooth development process, and a successful end result.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GteVGSDixUUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=GteVGSDixUUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "0201433311", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9780201433319", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=GteVGSDixUUC&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 251, 
+        "previewLink": "http://books.google.com/books?id=GteVGSDixUUC&pg=PR13&dq=intitle:web+development&hl=&cd=3&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1999", 
+        "publisher": "Addison-Wesley Professional", 
+        "ratingsCount": 1, 
+        "readingModes": {
+          "image": true, 
+          "text": false
+        }, 
+        "subtitle": "Strategies and Best Practices for Web Teams", 
+        "title": "Collaborative Web Development"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "acsTokenLink": "http://books.google.com/books/download/Beginning_Smartphone_Web_Development-sample-epub.acsm?id=FozZWHiSxrsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "pdf": {
+          "acsTokenLink": "http://books.google.com/books/download/Beginning_Smartphone_Web_Development-sample-pdf.acsm?id=FozZWHiSxrsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=FozZWHiSxrsC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "Y1K/fGC6hfU", 
+      "id": "FozZWHiSxrsC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "An IDE is a set of <b>developer</b> tools that facilitate <b>designing</b>, <b>programming</b>, <br>\nexecuting, and debugging a web application (or any other type of software). <br>\nMobile Web <b>development</b> does not require a specific IDE. The choice is yours, <br>\nprovided that&nbsp;..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FozZWHiSxrsC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Gail Frederick", 
+          "Rajesh Lal"
+        ], 
+        "averageRating": 4.5, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Beginning_Smartphone_Web_Development.html?hl=&id=FozZWHiSxrsC", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "0.3.4.0.preview.3", 
+        "description": "Today\u2019s Web 2.0 applications (think Facebook and Twitter) go far beyond the confines of the desktop and are widely used on mobile devices. The mobile Web has become incredibly popular given the success of the iPhone and BlackBerry, the importance of Windows Mobile, and the emergence of Palm Pre (and its webOS platform). At Apress, we are fortunate to have Gail Frederick of the well-known training site Learn the Mobile Web offer her expert advice in Beginning Smartphone Web Development. In this book, Gail teaches the web standards and fundamentals specific to smartphones and other feature-driven mobile phones and devices. Shows you how to build interactive mobile web sites using web technologies optimized for browsers in smartphones Details markup fundamentals, design principles, content adaptation, usability, and interoperability Explores cross-platform standards and best practices for the mobile Web authored by the W3C, dotMobi, and similar organizations Dives deeps into the feature sets of the most popular mobile browsers, including WebKit, Chrome, Palm Pre webOS, Pocket IE, Opera Mobile, and Skyfire By the end of this book, you\u2019ll have the training, tools, and techniques for creating robust mobile web experiences on any of these platforms for your favorite smartphone or other mobile device. What you\u2019ll learn Build interactive mobile web pages that comply with industry standards and best practices. Develop web sites using the markup languages of the mobile Web: XHTML-MP, Wireless CSS, and WML. Use Mobile JavaScript and Ajax for client-side web interactivity. Adapt the syntax and design of mobile web pages to target smartphone models. Enhance mobile web pages to target advanced features of smartphone browsers. Validate and compress mobile markup to optimize for network transmission and browser performance. Simulate smartphone browsers using emulators and development tools. Who this book is for Mobile application developers and their managers need to learn mobile web technologies because it\u2019s in their economic interest. Time-to-market and opportunity costs are significantly lower for web-based mobile applications than for native ones. Desktop web developers at software companies and IT departments of non-technology businesses need to learn mobile web technologies to meet the demands of managers who will soon be asking them to \u201cmobilize this web site.\u201d These developers will want to do the minimum work possible to maximize the compatibility of their mobile web sites. The standards-based approach advocated in this book will allow them to build gracefully adaptive and portable mobile web experiences that perform well across mobile browser platforms. Table of Contents Introduction to Mobile Web Development Set Up Your Mobile Web Development Environment Mobile Markup Languages Device Awareness and Content Adaptation Adding Interactivity with JavaScript and AJAX Mobile Web Usability Enhancing Mobile Web Pages for Smartphone Browsers Optimizing Mobile Markup Validating Mobile Markup Testing a Mobile Web Site Deploying a Mobile Web Site How to Play Well in the Mobile Ecosystem The Future of the Mobile Web", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FozZWHiSxrsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=FozZWHiSxrsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9781430226208", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "143022620X", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=FozZWHiSxrsC&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 368, 
+        "previewLink": "http://books.google.com/books?id=FozZWHiSxrsC&pg=PA16&dq=intitle:web+development&hl=&cd=4&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2010-01-15", 
+        "publisher": "Apress", 
+        "ratingsCount": 6, 
+        "readingModes": {
+          "image": true, 
+          "text": true
+        }, 
+        "subtitle": "Building JavaScript, CSS, HTML and Ajax-based Applications for iPhone, Android, Palm Pre, BlackBerry, Windows Mobile and Nokia S60", 
+        "title": "Beginning Smartphone Web Development"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=oY9fShrQyUgC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "TTmoJtWX/LA", 
+      "id": "oY9fShrQyUgC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "KAI QIAN, RICHARD ALLEN, MIA CAN, ROBERT BROWN Web <b>Development</b> <br>\nIlluminated is the ideal text for those interested in enterprise-level <b>programming</b> <br>\nand covers such important topics as XML, JSP, Servlets, Enterprise Java Beans,<br>\n&nbsp;..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oY9fShrQyUgC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Kai Qian"
+        ], 
+        "averageRating": 5.0, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Java_Web_Development_Illuminated.html?hl=&id=oY9fShrQyUgC", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "0.1.0.0.preview.1", 
+        "description": "This text introduces students to the concepts of building Web-distributed applications and helps develop the necessary skills through numerous examples, projects, case studies and hands-on examples.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oY9fShrQyUgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=oY9fShrQyUgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "0763734233", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9780763734237", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=oY9fShrQyUgC&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 702, 
+        "previewLink": "http://books.google.com/books?id=oY9fShrQyUgC&pg=PA704&dq=intitle:web+development&hl=&cd=5&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2007", 
+        "publisher": "Jones & Bartlett Learning", 
+        "ratingsCount": 3, 
+        "readingModes": {
+          "image": true, 
+          "text": false
+        }, 
+        "title": "Java Web Development Illuminated"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "acsTokenLink": "http://books.google.com/books/download/Pro_SharePoint_2013_Branding_and_Respons-sample-epub.acsm?id=2XkADDySIagC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=2XkADDySIagC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "8KVfqwg80qk", 
+      "id": "2XkADDySIagC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Using a local on-premise, virtual-machine-based <b>development</b> environment is a <br>\npopular solution, although creating such an environment is beyond the scope of <br>\nthis book. The hardware and software requirements and the configuration options<br>\n&nbsp;..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2XkADDySIagC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Oscar Medina", 
+          "Chris Beckett", 
+          "Rita Zhang", 
+          "Eric Overfield", 
+          "Kanwal Khipple", 
+          "Benjamin Niaulin"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Pro_SharePoint_2013_Branding_and_Respons.html?hl=&id=2XkADDySIagC", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "0.1.1.0.preview.3", 
+        "description": "Pro SharePoint 2013 Branding and Responsive Web Development is the definitive reference on the technologies, tools, and techniques needed for building responsive websites and applications with SharePoint 2013. The book focuses on solutions that provide the best browser experience for the myriad of devices, browsers, and screen orientations and resolutions. Web technology has changed considerably in the past few years. Microsoft has embraced the new generation of open standards represented by HTML5 and JavaScript, and these changes are represented in a fundamental shift in how SharePoint 2013 supports web content management and publishing. Authors Eric Overfield, Oscar Medina, Kanwal Khipple, and Rita Zhang join forces to dive into the new features and capabilities provided by SharePoint 2013 and combine them with the latest techniques in responsive web design and development to demonstrate how to build modern and progressive websites and applications. Pro SharePoint 2013 Branding and Responsive Web Development covers the following technologies: SharePoint 2013 Server Edition Office 365 SharePoint Online Expression Blend 2013 Napa Tools for Office and SharePoint Development Visual Studio 2012 HTML5 and CSS3 JavaScript, JQuery, JQuery UI, Modernizr, and the Bootstrap Framework SharePoint 2013 Client Object Model What you\u2019ll learnThrough the context of building a complete website on SharePoint 2013 from start to finish, readers will learn how to combine SharePoint 2013 web content management features and capabilities with modern web design and development skills. The key topics to be covered include: Design Manager \u2013 this new feature allows web designers and developers to build SharePoint branding templates using standard HTML and CSS and convert the templates to SharePoint master pages. This opens up branding to a wider audience of designers who struggled with having to understand the complexity of SharePoint and ASP.NET master pages. Client Object Model \u2013 this feature is based on web service technologies for interacting with server-side data from client-side. This feature has been extended significantly to support the new SharePoint application model, which heavily emphasizes client-side development. This book will provide full coverage of utilizing these updated web service technologies and how they can be used to build interactive websites. Device Channels \u2013 similar to the capabilities provided by HTML5 media queries, the new channels capability allows SharePoint to detect client devices and browsers to load the appropriate master page to provide a unique browser experience. Variations and Translation Services \u2013 SharePoint 2013 continues to improve features and capabilities for building multi-lingual sites including new support for integration with professional translation service providers, or automated translation web services. Term Set Navigation and SEO Improvements \u2013 SharePoint 2013 now provides native support for Search Engine Optimization requirements such as page meta fields, as well as a completely new approach to site navigation and human friendly URLs through the use of Managed Metadata navigation. Who this book is for Pro SharePoint 2013 Branding and Responsive Web Development is designed for web designers and developers who have existing knowledge of basic website design and development, including HTML, CSS, and JavaScript. This book builds upon that foundational knowledge to walk the reader through a complete project lifecycle for building a responsive website on SharePoint 2013. Table of Contents What\u2019s New in SharePoint 2013 Web Content Management Responsive Web Design and Development with HTML5 Gather Requirements and Wire frame for the Site Building a SharePoint HTML Master Page Using Device Channels to customize ClientUX Design Site Structure and Navigation with Managed Metadata Publish Cross-Site Content with Catalogs Design and Develop Page Layouts and Content Types Integrate Search-Driven Content Build Rich Interactive Forms Upload Documents and Files Integrate Location-Based Features Integrating Feeds and Social Media Supporting Multilingual Sites Appendix A: Setting up your Design and Development Environment", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2XkADDySIagC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=2XkADDySIagC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9781430250289", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "1430250283", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=2XkADDySIagC&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 541, 
+        "previewLink": "http://books.google.com/books?id=2XkADDySIagC&pg=PA522&dq=intitle:web+development&hl=&cd=6&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2013-06-11", 
+        "publisher": "Apress", 
+        "readingModes": {
+          "image": true, 
+          "text": true
+        }, 
+        "title": "Pro SharePoint 2013 Branding and Responsive Web Development"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=GBOpAwAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "7AA4bHfTRVE", 
+      "id": "GBOpAwAAQBAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "<b>Developing</b>, Deploying, and Managing Mobile and Multi-Platform Apps Kyle <br>\nBrown, Roland Barcia, Karl Bishop, Matthew Perrins. Jorge is the architect and <br>\nleader of the team. He is tasked with the problem of deciding how to build both a <br>\nnew&nbsp;..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GBOpAwAAQBAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Kyle Brown", 
+          "Roland Barcia", 
+          "Karl Bishop", 
+          "Matthew Perrins"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Modern_Web_Development_with_IBM_Webspher.html?hl=&id=GBOpAwAAQBAJ", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "Online resources also available to purchasers.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GBOpAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=GBOpAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9780133067033", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "0133067033", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=GBOpAwAAQBAJ&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 384, 
+        "previewLink": "http://books.google.com/books?id=GBOpAwAAQBAJ&pg=PA20&dq=intitle:web+development&hl=&cd=7&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2014-06-08", 
+        "publisher": "Pearson Education", 
+        "readingModes": {
+          "image": true, 
+          "text": false
+        }, 
+        "subtitle": "Developing, Deploying, and Managing Mobile and Multi-Platform Apps", 
+        "title": "Modern Web Development with IBM Websphere"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "acsTokenLink": "http://books.google.com/books/download/Web_Development_with_Go-sample-epub.acsm?id=OalPCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "pdf": {
+          "acsTokenLink": "http://books.google.com/books/download/Web_Development_with_Go-sample-pdf.acsm?id=OalPCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=OalPCwAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "64ZGY6uylVo", 
+      "id": "OalPCwAAQBAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "buyLink": "http://books.google.com/books?id=OalPCwAAQBAJ&dq=intitle:web+development&hl=&buy=&source=gbs_api", 
+        "country": "US", 
+        "isEbook": true, 
+        "listPrice": {
+          "amount": 39.99, 
+          "currencyCode": "USD"
+        }, 
+        "offers": [
+          {
+            "finskyOfferType": 1, 
+            "listPrice": {
+              "amountInMicros": 39990000.0, 
+              "currencyCode": "USD"
+            }, 
+            "retailPrice": {
+              "amountInMicros": 27990000.0, 
+              "currencyCode": "USD"
+            }
+          }
+        ], 
+        "retailPrice": {
+          "amount": 27.99, 
+          "currencyCode": "USD"
+        }, 
+        "saleability": "FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Ginkgo is a behavior-driven <b>development</b> (BDD) \u2013 based testing framework that <br>\nlets you write expressive tests in Go to specify application behaviors. If you are <br>\npracticing BDD for your software <b>development</b> process, Ginkgo is a great choice <br>\nof&nbsp;..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OalPCwAAQBAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Shiju Varghese"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Web_Development_with_Go.html?hl=&id=OalPCwAAQBAJ", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "1.5.3.0.preview.3", 
+        "description": "Take a deep dive into web development using the Go programming language to build web apps and RESTful services to create reliable and efficient software. Web Development with Go provides Go language fundamentals and then moves on to advanced web development concepts and successful deployment of Go web apps to the cloud. Web Development with Go will teach you how to develop scalable real-world web apps, RESTful services, and backend systems with Go. The book starts off by covering Go programming language fundamentals as a prerequisite for web development. After a thorough understanding of the basics, the book delves into web development using the built-in package, net/http. With each chapter you\u2019ll be introduced to new concepts for gradually building a real-world web system. The book further shows you how to integrate Go with other technologies. For example, it provides an overview of using MongoDB as a means of persistent storage, and provides an end-to-end REST API sample as well. Developers looking for a full-fledged web development framework for building web apps will be introduced to Beego. The book then moves on to demonstrate how to deploy web apps to the cloud using the Google Cloud platform. Finally, the book introduces Docker, a revolutionary container technology platform for deploying containerized Go web apps to the cloud. Web Development with Go provides: Fundamentals for building real-world web apps in Go Thorough coverage of prerequisites and practical code examples Demo web apps for attaining a deeper understanding of web development A reference REST API app which can be used to build scalable real-world backend services in Go A thorough demonstration of deploying web apps to the Cloud using the Google Cloud platform, and Docker for deploying Go servers Go is a high-performance language while providing greater level of developer productivity, therefore Web Development with Go equips you with the necessary skills and knowledge required for effectively building robust and efficient web apps by leveraging the features of Go.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OalPCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=OalPCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9781484210529", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "1484210522", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=OalPCwAAQBAJ&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 289, 
+        "previewLink": "http://books.google.com/books?id=OalPCwAAQBAJ&pg=PA236&dq=intitle:web+development&hl=&cd=8&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2015-12-30", 
+        "publisher": "Apress", 
+        "readingModes": {
+          "image": true, 
+          "text": true
+        }, 
+        "subtitle": "Building Scalable Web Apps and RESTful Services", 
+        "title": "Web Development with Go"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "acsTokenLink": "http://books.google.com/books/download/Web_Development_Simple_Steps_to_Win_Insi-sample-epub.acsm?id=ae81CgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "pdf": {
+          "acsTokenLink": "http://books.google.com/books/download/Web_Development_Simple_Steps_to_Win_Insi-sample-pdf.acsm?id=ae81CgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=ae81CgAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "cjzgkKuj9Bk", 
+      "id": "ae81CgAAQBAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "buyLink": "http://books.google.com/books?id=ae81CgAAQBAJ&dq=intitle:web+development&hl=&buy=&source=gbs_api", 
+        "country": "US", 
+        "isEbook": true, 
+        "listPrice": {
+          "amount": 24.99, 
+          "currencyCode": "USD"
+        }, 
+        "offers": [
+          {
+            "finskyOfferType": 1, 
+            "listPrice": {
+              "amountInMicros": 24990000.0, 
+              "currencyCode": "USD"
+            }, 
+            "retailPrice": {
+              "amountInMicros": 14740000.0, 
+              "currencyCode": "USD"
+            }
+          }
+        ], 
+        "retailPrice": {
+          "amount": 14.74, 
+          "currencyCode": "USD"
+        }, 
+        "saleability": "FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Toolkit: Web <b>Development</b>, Resource Type: PDF, Resource Name: %29%29 Buy <br>\nRapid Java Web <b>Development</b> Book Discounts Toolkit: Web <b>Development</b>, <br>\nResource Type: Document, Resource Name: Web <b>Development</b> And <br>\nAccessibility&nbsp;..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ae81CgAAQBAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Gerard Blokdijk"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Web_Development_Simple_Steps_to_Win_Insi.html?hl=&id=ae81CgAAQBAJ", 
+        "categories": [
+          "Social Science"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "The one-stop-source powering Web Development success, jam-packed with ready to use insights for success, loaded with all the data you need to decide how to gain and move ahead. An one-of-a-kind book, based on extensive research, this reveals the best practices of the most successful Web Development knowledge mavens, those who are adept at continually innovating and seeing opportunity where others do not. This is the first place to go for Web Development innovation, in today's knowledge-driven business environment, professionals face particular challenges as their purpose is to discover or develop new concepts, products, or processes; the pressure to perform is intense. This title is the entryway to a single source for innovation. BONUS: Included with the book come numerous real-world Web Development blueprints, presentations and templates ready for you to download and use. This book addresses the crucial issue of Web Development adoption by presenting the facts to move beyond general observation. The model underpinning this book has been used as a predictive decision tool, tracking thousands of innovations for over more than a decade. And...this all-encompassing analysis focuses on key areas of future Web Development growth.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ae81CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=ae81CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9781488844522", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "1488844526", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=ae81CgAAQBAJ&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 158, 
+        "previewLink": "http://books.google.com/books?id=ae81CgAAQBAJ&pg=PP38&dq=intitle:web+development&hl=&cd=9&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2015-07-21", 
+        "publisher": "Emereo Publishing", 
+        "readingModes": {
+          "image": true, 
+          "text": true
+        }, 
+        "title": "Web Development - Simple Steps to Win, Insights and Opportunities for Maxing Out Success"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": true
+        }, 
+        "pdf": {
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=Xs_2CQAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "rWNIF0DnZYo", 
+      "id": "Xs_2CQAAQBAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "buyLink": "http://books.google.com/books?id=Xs_2CQAAQBAJ&dq=intitle:web+development&hl=&buy=&source=gbs_api", 
+        "country": "US", 
+        "isEbook": true, 
+        "listPrice": {
+          "amount": 35.99, 
+          "currencyCode": "USD"
+        }, 
+        "offers": [
+          {
+            "finskyOfferType": 1, 
+            "listPrice": {
+              "amountInMicros": 35990000.0, 
+              "currencyCode": "USD"
+            }, 
+            "retailPrice": {
+              "amountInMicros": 22390000.0, 
+              "currencyCode": "USD"
+            }
+          }
+        ], 
+        "retailPrice": {
+          "amount": 22.39, 
+          "currencyCode": "USD"
+        }, 
+        "saleability": "FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Why. web. <b>development</b>. in. the. first. place? A website makes the first impression <br>\nabout the company or product directly on a global audience. Every startup now <br>\nhas a website, which helps to pitch their idea to their potential clients or investors."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Xs_2CQAAQBAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Sanjeev Jaiswal", 
+          "Ratan Kumar"
+        ], 
+        "averageRating": 1.0, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Learning_Django_Web_Development.html?hl=&id=Xs_2CQAAQBAJ", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "1.1.1.0.preview.3", 
+        "description": "Django, written in Python, is a web application framework designed to build complex web applications quickly without any hassle. It loosely follows the MVC pattern and adheres to the Don't Repeat Yourself principle, which makes a database-driven application efficient and highly scalable, and is by far the most popular and mature Python web framework. This book is a manual that will help you build a simple yet effective Django web application. It starts by introducing Django, setting it up, and shows you how to code simple programs. You will then learn to build your first Twitter-like app. Later on, you will be introduced to Hashtags, AJAX to enhance the user interface, and tweets. You will then move on to create an administration interface, learn database connectivity, and use third-party libraries. Then you will learn to debug and deploy Django projects, and also get a glimpse of Django with AngularJS and Elasticsearch. By the end of the book, you will be able to leverage the Django framework to develop a fully functional web application with minimal effort.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Xs_2CQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=Xs_2CQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9781783984411", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "1783984414", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=Xs_2CQAAQBAJ&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 336, 
+        "previewLink": "http://books.google.com/books?id=Xs_2CQAAQBAJ&pg=PA2&dq=intitle:web+development&hl=&cd=10&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2015-06-22", 
+        "publisher": "Packt Publishing Ltd", 
+        "ratingsCount": 1, 
+        "readingModes": {
+          "image": true, 
+          "text": true
+        }, 
+        "title": "Learning Django Web Development"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "acsTokenLink": "http://books.google.com/books/download/Learn_Java_for_Web_Development-sample-epub.acsm?id=werfAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=werfAgAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "Z6c1TG+Yar8", 
+      "id": "werfAgAAQBAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Modern Java Web <b>Development</b> Vishal Layka. Chapter 5 explains three key <br>\nobjectives of the Spring Framework: loose coupling using dependency injection, <br>\ndealing with cross-cutting concerns using AOP, and removing boilerplate code <br>\nusing&nbsp;..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/werfAgAAQBAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Vishal Layka"
+        ], 
+        "averageRating": 5.0, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Learn_Java_for_Web_Development.html?hl=&id=werfAgAAQBAJ", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "AngularJS is the leading framework for building dynamic JavaScript applications that take advantage of the capabilities of modern browsers and devices. AngularJS, which is maintained by Google, brings the power of the Model-View-Controller (MVC) pattern to the client, providing the foundation for complex and rich web apps. It allows you to build applications that are smaller, faster, and with a lighter resource footprint than ever before.Best-selling author Adam Freeman explains how to get the most from AngularJS. He begins by describing the MVC pattern and the many benefits that can be gained...", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=werfAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=werfAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9781430259831", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "1430259833", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=werfAgAAQBAJ&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 472, 
+        "previewLink": "http://books.google.com/books?id=werfAgAAQBAJ&pg=PP6&dq=intitle:web+development&hl=&cd=11&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2014-02-15", 
+        "publisher": "Apress", 
+        "ratingsCount": 1, 
+        "readingModes": {
+          "image": true, 
+          "text": true
+        }, 
+        "subtitle": "Modern Java Web Development", 
+        "title": "Learn Java for Web Development"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=5h_iBQAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "fERuPmCAKVc", 
+      "id": "5h_iBQAAQBAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "... a marketing site will need a 05_9781118967768-ch01.indd 21 <br>\n05_9781118967768-ch01.indd 21 12/11/2014 11:22:54 PM 12/11/2014 11:22:54 <br>\nPM. Chapter. 1: Seeing. the. Big. Picture. of. Web. <b>Development</b>. Jobs. 21. A <br>\nmarketing site."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5h_iBQAAQBAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Kathleen Taylor", 
+          "Bud E. Smith"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Getting_a_Web_Development_Job_For_Dummie.html?hl=&id=5h_iBQAAQBAJ", 
+        "categories": [
+          "Business & Economics"
+        ], 
+        "contentVersion": "0.1.0.0.preview.1", 
+        "description": "Provides information on pursuing a career in web development, including the major categories of web development jobs, the necessary skills, how to build a resume and develop a web portfolio, and how to use online job boards.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5h_iBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=5h_iBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9781118967768", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "1118967763", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=5h_iBQAAQBAJ&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 312, 
+        "previewLink": "http://books.google.com/books?id=5h_iBQAAQBAJ&pg=PA17&dq=intitle:web+development&hl=&cd=12&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2015-01-20", 
+        "publisher": "John Wiley & Sons", 
+        "readingModes": {
+          "image": true, 
+          "text": false
+        }, 
+        "title": "Getting a Web Development Job For Dummies"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": true
+        }, 
+        "pdf": {
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=nbJVx2uDfgoC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "U9vCCo/rM0g", 
+      "id": "nbJVx2uDfgoC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "buyLink": "http://books.google.com/books?id=nbJVx2uDfgoC&dq=intitle:web+development&hl=&buy=&source=gbs_api", 
+        "country": "US", 
+        "isEbook": true, 
+        "listPrice": {
+          "amount": 12.99, 
+          "currencyCode": "USD"
+        }, 
+        "offers": [
+          {
+            "finskyOfferType": 1, 
+            "listPrice": {
+              "amountInMicros": 12990000.0, 
+              "currencyCode": "USD"
+            }, 
+            "retailPrice": {
+              "amountInMicros": 9990000.0, 
+              "currencyCode": "USD"
+            }
+          }
+        ], 
+        "retailPrice": {
+          "amount": 9.99, 
+          "currencyCode": "USD"
+        }, 
+        "saleability": "FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Welcome to Instant Flask Web <b>Development</b>. We will progressively walk through <br>\nweb <b>development</b> in the Python <b>programming</b> language using Flask, a small but <br>\nexpressive framework which provides the essentials and enables you to build&nbsp;..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nbJVx2uDfgoC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Ron DuPlain"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Instant_Flask_Web_Development.html?hl=&id=nbJVx2uDfgoC", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "Filled with practical, step-by-step instructions and clear explanations for the most important and useful tasks. The book uses a bottom-up approach to help you build applications, and is full of step-by-step instructions and practical examples to help you improve your knowledge.Instant Flask Web Development is for developers who are new to web programming, or are familiar with web programming but new to Flask. This book gives you a head start if you have some beginner experience with Python and HTML, or are willing to learn.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nbJVx2uDfgoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=nbJVx2uDfgoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9781782169635", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "1782169636", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=nbJVx2uDfgoC&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 78, 
+        "previewLink": "http://books.google.com/books?id=nbJVx2uDfgoC&pg=PT27&dq=intitle:web+development&hl=&cd=13&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2013-01-01", 
+        "publisher": "Packt Publishing Ltd", 
+        "readingModes": {
+          "image": true, 
+          "text": true
+        }, 
+        "title": "Instant Flask Web Development"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": true
+        }, 
+        "pdf": {
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=OELfBgAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "pbdn5udleMo", 
+      "id": "OELfBgAAQBAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "buyLink": "http://books.google.com/books?id=OELfBgAAQBAJ&dq=intitle:web+development&hl=&buy=&source=gbs_api", 
+        "country": "US", 
+        "isEbook": true, 
+        "listPrice": {
+          "amount": 17.99, 
+          "currencyCode": "USD"
+        }, 
+        "offers": [
+          {
+            "finskyOfferType": 1, 
+            "listPrice": {
+              "amountInMicros": 17990000.0, 
+              "currencyCode": "USD"
+            }, 
+            "retailPrice": {
+              "amountInMicros": 10690000.0, 
+              "currencyCode": "USD"
+            }
+          }
+        ], 
+        "retailPrice": {
+          "amount": 10.69, 
+          "currencyCode": "USD"
+        }, 
+        "saleability": "FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "<b>development</b>. using. browser. <b>developer</b>. tools. I suggest using the tools in <br>\nGoogle Chrome for this book. The first tool that did a real good job was the <br>\nFirefox tool called Firebug. Firebug is still a great tool, and the built-in <b>developer</b> <br>\ntools in&nbsp;..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OELfBgAAQBAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "John Farrar"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/KnockoutJS_Web_Development.html?hl=&id=OELfBgAAQBAJ", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "2.2.2.0.preview.3", 
+        "description": "This book is for web developers and designers who work with HTML and JavaScript to help them manage data and interactivity with data using KnockoutJS. Knowledge about jQuery will be useful but is not necessary.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OELfBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=OELfBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9781782161035", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "1782161031", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=OELfBgAAQBAJ&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 178, 
+        "previewLink": "http://books.google.com/books?id=OELfBgAAQBAJ&pg=PA13&dq=intitle:web+development&hl=&cd=14&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2015-02-27", 
+        "publisher": "Packt Publishing Ltd", 
+        "readingModes": {
+          "image": true, 
+          "text": true
+        }, 
+        "title": "KnockoutJS Web Development"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=M2D5nnYlmZoC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "x6PJrh6GWH0", 
+      "id": "M2D5nnYlmZoC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "buyLink": "http://books.google.com/books?id=M2D5nnYlmZoC&dq=intitle:web+development&hl=&buy=&source=gbs_api", 
+        "country": "US", 
+        "isEbook": true, 
+        "listPrice": {
+          "amount": 39.99, 
+          "currencyCode": "USD"
+        }, 
+        "offers": [
+          {
+            "finskyOfferType": 1, 
+            "listPrice": {
+              "amountInMicros": 39990000.0, 
+              "currencyCode": "USD"
+            }, 
+            "retailPrice": {
+              "amountInMicros": 31190000.0, 
+              "currencyCode": "USD"
+            }
+          }
+        ], 
+        "retailPrice": {
+          "amount": 31.19, 
+          "currencyCode": "USD"
+        }, 
+        "saleability": "FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Jeff Forcier, Paul Bissex, Wesley Chun. Python. He holds degrees in Computer <br>\nScience, Mathematics, and Music from the University of California. Introduction If <br>\nyou&#39;re a Web <b>developer</b>, a programmer who creates."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/M2D5nnYlmZoC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Jeff Forcier", 
+          "Paul Bissex", 
+          "Wesley Chun"
+        ], 
+        "averageRating": 4.0, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Python_Web_Development_with_Django.html?hl=&id=M2D5nnYlmZoC", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "1.5.3.0.preview.3", 
+        "description": "Using the simple, robust, Python-based Django framework, you can build powerful Web solutions with remarkably few lines of code. In Python Web Development with Django\u00ae, three experienced Django and Python developers cover all the techniques, tools, and concepts you need to make the most of Django 1.0, including all the major features of the new release. The authors teach Django through in-depth explanations, plus provide extensive sample code supported with images and line-by-line explanations. You\u2019ll discover how Django leverages Python\u2019s development speed and flexibility to help you solve a wide spectrum of Web development problems and learn Django best practices covered nowhere else. You\u2019ll build your first Django application in just minutes and deepen your real-world skills through start-to-finish application projects including Simple Web log (blog) Online photo gallery Simple content management system Ajax-powered live blogger Online source code sharing/syntax highlighting tool How to run your Django applications on the Google App Engine This complete guide starts by introducing Python, Django, and Web development concepts, then dives into the Django framework, providing a deep understanding of its major components (models, views, templates), and how they come together to form complete Web applications. After a discussion of four independent working Django applications, coverage turns to advanced topics, such as caching, extending the template system, syndication, admin customization, and testing. Valuable reference appendices cover using the command-line, installing and configuring Django, development tools, exploring existing Django applications, the Google App Engine, and how to get more involved with the Django community. Introduction 1 Part I: Getting Started Chapter 1: Practical Python for Django 7 Chapter 2: Django for the Impatient: Building a Blog 57 Chapter 3: Starting Out 77 Part II: Django in Depth Chapter 4: Defining and Using Models 89 Chapter 5: URLs, HTTP Mechanisms, and Views 117 Chapter 6: Templates and Form Processing 135 Part III: Django Applications by Example Chapter 7: Photo Gallery 159 Chapter 8: Content Management System 181 Chapter 9: Liveblog 205 Chapter 10: Pastebin 221 Part IV: Advanced Django Techniques and Features Chapter 11: Advanced Django Programming 235 Chapter 12: Advanced Django Deployment 261 Part V: Appendices Appendix A: Command Line Basics 285 Appendix B: Installing and Running Django 295 Appendix C: Tools for Practical Django Development 313 Appendix D: Finding, Evaluating, and Using Django Applications 321 Appendix E: Django on the Google App Engine 325 Appendix F: Getting Involved in the Django Project 337 Index 339 Colophon 375", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=M2D5nnYlmZoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=M2D5nnYlmZoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9780132701815", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "0132701812", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=M2D5nnYlmZoC&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 408, 
+        "previewLink": "http://books.google.com/books?id=M2D5nnYlmZoC&pg=PT30&dq=intitle:web+development&hl=&cd=15&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2008-10-24", 
+        "publisher": "Addison-Wesley Professional", 
+        "ratingsCount": 3, 
+        "readingModes": {
+          "image": true, 
+          "text": true
+        }, 
+        "title": "Python Web Development with Django"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "acsTokenLink": "http://books.google.com/books/download/ColdFusion_Web_Development_with_Macromed-sample-pdf.acsm?id=qDKkBX_pBecC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=qDKkBX_pBecC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "d3obg2844AM", 
+      "id": "qDKkBX_pBecC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "About the Authors For the past several years, Simon&#39;s professional focus has <br>\nbeen toward software architecture theory and methodology and its <br>\nimplementation in CFML <b>development</b>. In early 2004 he launched cfstandards.<br>\norg, a site devoted&nbsp;..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qDKkBX_pBecC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Peter deHaan", 
+          "Curtis Hermann", 
+          "Simon Horwith", 
+          "Edoardo Zubler", 
+          "Massimo Foti"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/ColdFusion_Web_Development_with_Macromed.html?hl=&id=qDKkBX_pBecC", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "ColdFusion Web Development with Macromedia Dreamweaver MX 2004 explores the exciting web development partnership between ColdFusion\u2014a fantastically powerful but easy-to-learn server-side scripting language\u2014and Dreamweaver, Macromedia's world-class visual web authoring tool. With Dreamweaver, you can set up your ColdFusion website, connect it to your database, put together all the code for the pages, and style themall with surprisingly little effort. The book is full of practical examples. It begins by teaching the basics of the ColdFusion language and showing you how to use ColdFusion to perform tasks such as connecting to databases, decision making, reading XML, querying, and error handling. Further on, it delves into more advanced topics, such as ColdFusion extensions, custom functions, and Flash remoting (using Dreamweaver MX as the IDE). The book is supplemented by an extensive case study that shows you how to put together everything you've learned to build a fully operational, dynamic, real-world website. It also explores common web applications like blogs, review pages, and user registration/login forms.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qDKkBX_pBecC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=qDKkBX_pBecC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9781590592373", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "1590592379", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=qDKkBX_pBecC&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 488, 
+        "previewLink": "http://books.google.com/books?id=qDKkBX_pBecC&pg=PR10&dq=intitle:web+development&hl=&cd=16&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2004-04-07", 
+        "publisher": "Apress", 
+        "readingModes": {
+          "image": true, 
+          "text": false
+        }, 
+        "title": "ColdFusion Web Development with Macromedia Dreamweaver MX 2004"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=HbUhv8aKIk4C&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "xJpT615ag78", 
+      "id": "HbUhv8aKIk4C", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Open Source Web <b>Development</b> with LAMP Using Linux, Apache, MySQL, Perl, <br>\nand PHP Also covers WML, mod_perl, Embperl, and Mason James Lee Brent <br>\nWare Open Source Web <b>Development</b> With LAMP P U W E. Front Cover."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HbUhv8aKIk4C", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "James Lee", 
+          "Brent Ware"
+        ], 
+        "averageRating": 5.0, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Open_Source_Web_Development_with_LAMP.html?hl=&id=HbUhv8aKIk4C", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "0.1.0.0.preview.1", 
+        "description": "Presents an overview of LAMP and Open Source technologies to build Web applications.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HbUhv8aKIk4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=HbUhv8aKIk4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9780201770612", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "020177061X", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=HbUhv8aKIk4C&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 460, 
+        "previewLink": "http://books.google.com/books?id=HbUhv8aKIk4C&pg=PP1&dq=intitle:web+development&hl=&cd=17&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2003", 
+        "publisher": "Addison-Wesley Professional", 
+        "ratingsCount": 2, 
+        "readingModes": {
+          "image": true, 
+          "text": false
+        }, 
+        "subtitle": "Using Linux, Apache, MySQL, Perl, and PHP", 
+        "title": "Open Source Web Development with LAMP"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": true
+        }, 
+        "pdf": {
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=ZPpzBgAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "kDexi1hXB8c", 
+      "id": "ZPpzBgAAQBAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "buyLink": "http://books.google.com/books?id=ZPpzBgAAQBAJ&dq=intitle:web+development&hl=&buy=&source=gbs_api", 
+        "country": "US", 
+        "isEbook": true, 
+        "listPrice": {
+          "amount": 29.99, 
+          "currencyCode": "USD"
+        }, 
+        "offers": [
+          {
+            "finskyOfferType": 1, 
+            "listPrice": {
+              "amountInMicros": 29990000.0, 
+              "currencyCode": "USD"
+            }, 
+            "retailPrice": {
+              "amountInMicros": 18490000.0, 
+              "currencyCode": "USD"
+            }
+          }
+        ], 
+        "retailPrice": {
+          "amount": 18.49, 
+          "currencyCode": "USD"
+        }, 
+        "saleability": "FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Mostly known for being the creator of Croogo (a CMS based on the CakePHP <br>\nframework), he has progressed to become more of a frontend <b>developer</b> over the <br>\nlast couple of years. If he isn&#39;t coding, chances are high that he will be seen <br>\ncycling&nbsp;..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZPpzBgAAQBAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Bass Jobsen", 
+          "Amin Meyghani"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Less_Web_Development_Cookbook.html?hl=&id=ZPpzBgAAQBAJ", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "2.3.3.0.preview.3", 
+        "description": "Aimed at those who want to overcome the limitations of CSS, through this book you will begin to harness the efficiency of Less by building advanced, responsive, and modern websites. Experienced web developers, students, and even web designers will find this guide very useful as they enhance their CSS skills.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZPpzBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=ZPpzBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9781783981496", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "1783981490", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=ZPpzBgAAQBAJ&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 394, 
+        "previewLink": "http://books.google.com/books?id=ZPpzBgAAQBAJ&pg=PP10&dq=intitle:web+development&hl=&cd=18&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2015-01-31", 
+        "publisher": "Packt Publishing Ltd", 
+        "readingModes": {
+          "image": true, 
+          "text": true
+        }, 
+        "title": "Less Web Development Cookbook"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "acsTokenLink": "http://books.google.com/books/download/Web_Development_with_JavaScript_and_Ajax-sample-epub.acsm?id=HQGx6TUS4ZwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=HQGx6TUS4ZwC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "yTJd4mF6TQM", 
+      "id": "HQGx6TUS4ZwC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Ideal for the undergraduate student delving into the world of web development, this text illustrates how to create dynamic, interactive web applications with ease."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HQGx6TUS4ZwC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Richard Allen", 
+          "Kai Qian", 
+          "Southern Polytechnic State University Kai Qian", 
+          "Lixin Tao", 
+          "Xiang Fu"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Web_Development_with_JavaScript_and_Ajax.html?hl=&id=HQGx6TUS4ZwC", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "Web Development with JavaScript and AJAX teaches your students the cutting-edge techniques for web development for Web 2.0 and 3.0. Ideal for the undergraduate student delving into the world of web development, this text illustrates how to create dynamic, interactive web applications with ease. Interesting real-world case studies are integrated throughout the text, offering students a glimpse of actual web development scenarios. AJAX is quickly becoming the number one tool in the Web industry. Make sure your students are up to speed using Web Development with JavaScript and AJAX. Instructor's materials, including PowerPoint lecture slides, test items, and PowerPoint figures and tables, are available. Contact your sales representative for more information. Key topics include: Introduction to Web 2.0 and Web 3.0, HTML, XHTML, and JavaScript, AJAX Basics, Server Side Technology, AJAX with database, and much more!", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HQGx6TUS4ZwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=HQGx6TUS4ZwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9781449613242", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "1449613241", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=HQGx6TUS4ZwC&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 497, 
+        "previewLink": "http://books.google.com/books?id=HQGx6TUS4ZwC&printsec=frontcover&dq=intitle:web+development&hl=&cd=19&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2010-10-22", 
+        "publisher": "Jones & Bartlett Publishers", 
+        "readingModes": {
+          "image": true, 
+          "text": true
+        }, 
+        "title": "Web Development with JavaScript and Ajax Illuminated"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=SM9XAmQpyMcC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "41KuDfTD+Vs", 
+      "id": "SM9XAmQpyMcC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "buyLink": "http://books.google.com/books?id=SM9XAmQpyMcC&dq=intitle:web+development&hl=&buy=&source=gbs_api", 
+        "country": "US", 
+        "isEbook": true, 
+        "listPrice": {
+          "amount": 28.0, 
+          "currencyCode": "USD"
+        }, 
+        "offers": [
+          {
+            "finskyOfferType": 1, 
+            "listPrice": {
+              "amountInMicros": 28000000.0, 
+              "currencyCode": "USD"
+            }, 
+            "retailPrice": {
+              "amountInMicros": 15120000.0, 
+              "currencyCode": "USD"
+            }
+          }
+        ], 
+        "retailPrice": {
+          "amount": 15.12, 
+          "currencyCode": "USD"
+        }, 
+        "saleability": "FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "In fact, it was a Mac that got me into graphic <b>design</b> and subsequently web <br>\n<b>design</b>. I had a sort of epiphanic moment when I first used my Dad&#39;s 180c <br>\nPowerBook. Think John Belushi handspringing down the church aisle in The <br>\nBlues Brothers&nbsp;..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SM9XAmQpyMcC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Phil Sherry"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Foundation_Mac_OS_X_Web_Development.html?hl=&id=SM9XAmQpyMcC", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "Provides information on creating Web sites on the Mac platform, covering such topics as Mac graphics and design, developing static Web sites, UNIX, Apache modules, databases, server-side languages, and multimedia.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SM9XAmQpyMcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=SM9XAmQpyMcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "1590593367", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9781590593363", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=SM9XAmQpyMcC&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 344, 
+        "previewLink": "http://books.google.com/books?id=SM9XAmQpyMcC&pg=PR14&dq=intitle:web+development&hl=&cd=20&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2004-07-21", 
+        "publisher": "Apress", 
+        "readingModes": {
+          "image": true, 
+          "text": false
+        }, 
+        "title": "Foundation Mac OS X Web Development"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "acsTokenLink": "http://books.google.com/books/download/Bridging_UX_and_Web_Development-sample-epub.acsm?id=zU8ZAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "pdf": {
+          "acsTokenLink": "http://books.google.com/books/download/Bridging_UX_and_Web_Development-sample-pdf.acsm?id=zU8ZAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=zU8ZAwAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "Izvh2EyiA9k", 
+      "id": "zU8ZAwAAQBAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "buyLink": "http://books.google.com/books?id=zU8ZAwAAQBAJ&dq=intitle:web+development&hl=&buy=&source=gbs_api", 
+        "country": "US", 
+        "isEbook": true, 
+        "listPrice": {
+          "amount": 39.95, 
+          "currencyCode": "USD"
+        }, 
+        "offers": [
+          {
+            "finskyOfferType": 1, 
+            "listPrice": {
+              "amountInMicros": 39950000.0, 
+              "currencyCode": "USD"
+            }, 
+            "retailPrice": {
+              "amountInMicros": 31160000.0, 
+              "currencyCode": "USD"
+            }
+          }
+        ], 
+        "retailPrice": {
+          "amount": 31.16, 
+          "currencyCode": "USD"
+        }, 
+        "saleability": "FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "As a graduate student studying interaction <b>design</b> at Carnegie Mellon University (<br>\nCMU), I was of the opinion that designers shouldn&#39;t need to know how to code. <br>\nWe should have tools that give us complete freedom to create without requiring&nbsp;..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zU8ZAwAAQBAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Jack Moffett"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Bridging_UX_and_Web_Development.html?hl=&id=zU8ZAwAAQBAJ", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "1.6.6.0.preview.3", 
+        "description": "The divide between UX and Web development can be stifling. Bridging UX and Web Development prepares you to break down those walls by teaching you how to integrate with your team\u2019s developers. You examine the process from their perspective, discovering tools and coding principles that will help you bridge the gap between design and implementation. With these tried and true approaches, you\u2019ll be able to capitalize on a more productive work environment. Whether you\u2019re a novice UX professional finding your place in the software industry and looking to nail down your technical skills, or a seasoned UI designer looking for practical information on how to integrate your team with development, this is the must-have resource for your UX library. Establish a collaboration lifecycle, mapping design activities to counterparts in the software development process Learn about software tools that will improve productivity and collaboration Work through step-by-step exercises that teach font-end coding principles to improve your prototyping and implementation activities Discover practical, usable HTML and CSS examples Uncover tips for working with various developer personas", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zU8ZAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=zU8ZAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9780128007877", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "0128007877", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=zU8ZAwAAQBAJ&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 224, 
+        "previewLink": "http://books.google.com/books?id=zU8ZAwAAQBAJ&pg=PR13&dq=intitle:web+development&hl=&cd=21&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2014-06-06", 
+        "publisher": "Morgan Kaufmann", 
+        "readingModes": {
+          "image": true, 
+          "text": true
+        }, 
+        "subtitle": "Better Results through Team Integration", 
+        "title": "Bridging UX and Web Development"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "acsTokenLink": "http://books.google.com/books/download/Web_Development_with_Java-sample-epub.acsm?id=Lq1BKNCW9-wC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "pdf": {
+          "acsTokenLink": "http://books.google.com/books/download/Web_Development_with_Java-sample-pdf.acsm?id=Lq1BKNCW9-wC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=Lq1BKNCW9-wC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "tS+HRKnYtrU", 
+      "id": "Lq1BKNCW9-wC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "buyLink": "http://books.google.com/books?id=Lq1BKNCW9-wC&dq=intitle:web+development&hl=&buy=&source=gbs_api", 
+        "country": "US", 
+        "isEbook": true, 
+        "listPrice": {
+          "amount": 69.95, 
+          "currencyCode": "USD"
+        }, 
+        "offers": [
+          {
+            "finskyOfferType": 1, 
+            "listPrice": {
+              "amountInMicros": 69950000.0, 
+              "currencyCode": "USD"
+            }, 
+            "retailPrice": {
+              "amountInMicros": 55960000.0, 
+              "currencyCode": "USD"
+            }
+          }, 
+          {
+            "finskyOfferType": 3, 
+            "listPrice": {
+              "amountInMicros": 34980000.0, 
+              "currencyCode": "USD"
+            }, 
+            "rentalDuration": {
+              "count": 180.0, 
+              "unit": "DAY"
+            }, 
+            "retailPrice": {
+              "amountInMicros": 30430000.0, 
+              "currencyCode": "USD"
+            }
+          }
+        ], 
+        "retailPrice": {
+          "amount": 55.96, 
+          "currencyCode": "USD"
+        }, 
+        "saleability": "FOR_SALE_AND_RENTAL"
+      }, 
+      "searchInfo": {
+        "textSnippet": "NetBeans is an excellent <b>development</b> environment for web applications. <br>\nNetBeans is packaged with Tomcat and is integrated with the default browser on <br>\na system. After creating a project, a web application can be executed with the <br>\nclick of a&nbsp;..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Lq1BKNCW9-wC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Tim Downey"
+        ], 
+        "averageRating": 3.0, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Web_Development_with_Java.html?hl=&id=Lq1BKNCW9-wC", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "4.3.6.0.preview.3", 
+        "description": "Web development is simpler than it seems, especially with the software tools freely available on the web. This book breaks from the tradition of teaching a history of web development and jumps to the good stuff from the outset so that students can start writing real applications. It introduces readers to a 3-tiered, Model-View-Controller architecture by using Hibernate, JSPs, and Java Servlets. These three technologies all use Java, so that a student with a good background in programming will be able to master them. Java Server Pages are HTML pages that have some data references in them. Java Servlet contain the business logic. Hibernate handles the data. This book uses existing powerful technologies such as JSP, JavaBeans, Annotations, JSTL, Java 1.5, Hibernate, Apache Velocity and Tomcat. It also presents Model 1 architectures using Servlets and JSP as alternatives to Perl and PHP. Written novice developers, this book provides an introductory course in web development for undergraduates as well as web developers.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Lq1BKNCW9-wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=Lq1BKNCW9-wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9781846288630", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "1846288630", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=Lq1BKNCW9-wC&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 302, 
+        "previewLink": "http://books.google.com/books?id=Lq1BKNCW9-wC&pg=PA29&dq=intitle:web+development&hl=&cd=22&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2008-01-11", 
+        "publisher": "Springer Science & Business Media", 
+        "ratingsCount": 1, 
+        "readingModes": {
+          "image": true, 
+          "text": true
+        }, 
+        "subtitle": "Using Hibernate, JSPs and Servlets", 
+        "title": "Web Development with Java"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=5munr7rxsSAC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "vcmOv1GszE0", 
+      "id": "5munr7rxsSAC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "It included many of the capabilities that were in Raggett&#39;s HTML+ proposal, such <br>\nas support for tables, text flow around figures, and the display of complex <br>\nmathematical formulas.31 W3C began <b>development</b> of its own Arena browser for <br>\ntesting&nbsp;..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5munr7rxsSAC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Web_Development.html?hl=&id=5munr7rxsSAC", 
+        "contentVersion": "preview-1.0.0", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5munr7rxsSAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=5munr7rxsSAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "infoLink": "http://books.google.com/books?id=5munr7rxsSAC&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "previewLink": "http://books.google.com/books?id=5munr7rxsSAC&pg=PA6&dq=intitle:web+development&hl=&cd=23&source=gbs_api", 
+        "printType": "BOOK", 
+        "publisher": "PediaPress", 
+        "readingModes": {
+          "image": true, 
+          "text": false
+        }, 
+        "title": "Web Development"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": true
+        }, 
+        "pdf": {
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=GK7NBgAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "6lJJULuAlds", 
+      "id": "GK7NBgAAQBAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "buyLink": "http://books.google.com/books?id=GK7NBgAAQBAJ&dq=intitle:web+development&hl=&buy=&source=gbs_api", 
+        "country": "US", 
+        "isEbook": true, 
+        "listPrice": {
+          "amount": 26.99, 
+          "currencyCode": "USD"
+        }, 
+        "offers": [
+          {
+            "finskyOfferType": 1, 
+            "listPrice": {
+              "amountInMicros": 26990000.0, 
+              "currencyCode": "USD"
+            }, 
+            "retailPrice": {
+              "amountInMicros": 16540000.0, 
+              "currencyCode": "USD"
+            }
+          }
+        ], 
+        "retailPrice": {
+          "amount": 16.54, 
+          "currencyCode": "USD"
+        }, 
+        "saleability": "FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "However, during <b>development</b>, we can also set environment configuration using <br>\nthe lein-environ plugin (which is also packaged as part of a Luminus-generated <br>\napplication). When running the <b>development</b> server using lein ring server, the&nbsp;..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GK7NBgAAQBAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Ryan Baldwin"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Clojure_Web_Development_Essentials.html?hl=&id=GK7NBgAAQBAJ", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "2.2.2.0.preview.3", 
+        "description": "This book is for anyone who's worked with Clojure and wants to use it to start developing applications for the Web. Experience or familiarity with basic Clojure syntax is a must, and exposure to Leiningen (or other similar build tools such as Maven) would be helpful.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GK7NBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=GK7NBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9781784394875", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "1784394874", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=GK7NBgAAQBAJ&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 232, 
+        "previewLink": "http://books.google.com/books?id=GK7NBgAAQBAJ&pg=PA183&dq=intitle:web+development&hl=&cd=24&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2015-02-24", 
+        "publisher": "Packt Publishing Ltd", 
+        "readingModes": {
+          "image": true, 
+          "text": true
+        }, 
+        "title": "Clojure Web Development Essentials"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "acsTokenLink": "http://books.google.com/books/download/Open_Source_Database_Driven_Web_Developm-sample-pdf.acsm?id=nrWkAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=nrWkAgAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "bIV2NCDMH9c", 
+      "id": "nrWkAgAAQBAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "buyLink": "http://books.google.com/books?id=nrWkAgAAQBAJ&dq=intitle:web+development&hl=&buy=&source=gbs_api", 
+        "country": "US", 
+        "isEbook": true, 
+        "listPrice": {
+          "amount": 70.0, 
+          "currencyCode": "USD"
+        }, 
+        "offers": [
+          {
+            "finskyOfferType": 1, 
+            "listPrice": {
+              "amountInMicros": 70000000.0, 
+              "currencyCode": "USD"
+            }, 
+            "retailPrice": {
+              "amountInMicros": 56000000.0, 
+              "currencyCode": "USD"
+            }
+          }
+        ], 
+        "retailPrice": {
+          "amount": 56.0, 
+          "currencyCode": "USD"
+        }, 
+        "saleability": "FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "(Oscar Wilde, 1883) Effective database <b>design</b> and normalisation, very important <br>\naspects of database driven web <b>development</b>, require analysis and at least a <br>\nmoderate degree of foresight. Well-designed databases tend to make the entire&nbsp;..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nrWkAgAAQBAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Isaac Dunlap"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Open_Source_Database_Driven_Web_Developm.html?hl=&id=nrWkAgAAQBAJ", 
+        "categories": [
+          "Language Arts & Disciplines"
+        ], 
+        "contentVersion": "1.3.1.0.preview.1", 
+        "description": "Almost every organization seeks a simple means of managing, publishing and/or providing searchable web access to information. Written by a knowledgeable web developer, this book demonstrates the simplicity, cost-effectiveness, and versatility of designing database driven web applications with Open Source resources. Case studies of \u2018real world\u2019 implementations address both theoretical aspects and practical considerations of developing applications with the easy-to-use PHP scripting language and powerful MySQL relational database. Project organization and design issues are considered along with basic coding examples, accessibility standards and implementation advice. Introduces popular Open Source database tools (MySQL/PHP) and basic development skills, bringing database driven technology within the reach of any web developer Explores strategies for improving content management, web publishing and information access Uses non-technical language and presents seven university library web database case studies", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nrWkAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=nrWkAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9781780631882", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "178063188X", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=nrWkAgAAQBAJ&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 256, 
+        "previewLink": "http://books.google.com/books?id=nrWkAgAAQBAJ&pg=PA95&dq=intitle:web+development&hl=&cd=25&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2006-09-30", 
+        "publisher": "Elsevier", 
+        "readingModes": {
+          "image": true, 
+          "text": false
+        }, 
+        "subtitle": "A Guide for Information Professionals", 
+        "title": "Open Source Database Driven Web Development"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=VKRwAwAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "v/PmLCSeIfU", 
+      "id": "VKRwAwAAQBAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "<b>Developing</b> Web Applications with Python Miguel Grinberg. Flask Web <br>\n<b>Development</b> Miguel Grinberg Flask Web <b>Development</b> by Miguel Grinberg <br>\nCopyright \u00a9 2014 Miguel."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VKRwAwAAQBAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Miguel Grinberg"
+        ], 
+        "averageRating": 4.0, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Flask_Web_Development.html?hl=&id=VKRwAwAAQBAJ", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "0.1.0.0.preview.1", 
+        "description": "Take full creative control of your web applications with Flask, the Python-based microframework. With this hands-on book, you\u2019ll learn Flask from the ground up by developing a complete social blogging application step-by-step. Author Miguel Grinberg walks you through the framework\u2019s core functionality, and shows you how to extend applications with advanced web techniques such as database migration and web service communication. Rather than impose development guidelines as other frameworks do, Flask leaves the business of extensions up to you. If you have Python experience, this book shows you how to take advantage of that creative freedom. Learn Flask\u2019s basic application structure and write an example app Work with must-have components\u2014templates, databases, web forms, and email support Use packages and modules to structure a large application that scales Implement user authentication, roles, and profiles Build a blogging feature by reusing templates, paginating item lists, and working with rich text Use a Flask-based RESTful API to expose app functionality to smartphones, tablets, and other third-party clients Learn how to run unit tests and enhance application performance Explore options for deploying your web app to a production server", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VKRwAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=VKRwAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9781491947616", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "1491947616", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=VKRwAwAAQBAJ&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 258, 
+        "previewLink": "http://books.google.com/books?id=VKRwAwAAQBAJ&pg=PR1&dq=intitle:web+development&hl=&cd=26&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2014-04-28", 
+        "publisher": "\"O'Reilly Media, Inc.\"", 
+        "ratingsCount": 7, 
+        "readingModes": {
+          "image": true, 
+          "text": false
+        }, 
+        "subtitle": "Developing Web Applications with Python", 
+        "title": "Flask Web Development"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "acsTokenLink": "http://books.google.com/books/download/Smashing_Mobile_Web_Development-sample-epub.acsm?id=gaNwl2azgcsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "pdf": {
+          "acsTokenLink": "http://books.google.com/books/download/Smashing_Mobile_Web_Development-sample-pdf.acsm?id=gaNwl2azgcsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=gaNwl2azgcsC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "4bO9rCg59O8", 
+      "id": "gaNwl2azgcsC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "As of BlackBerry 086, all BlackBerry devices come loaded with a WebKit browser, <br>\nwhich makes life a lot easier when <b>developing</b> for this platform. Prior to this <br>\nversion, all BlackBerry devices came with a non-WebKit browser. That said, most<br>\n&nbsp;..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gaNwl2azgcsC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "G. Avola", 
+          "Jon Raasch"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Smashing_Mobile_Web_Development.html?hl=&id=gaNwl2azgcsC", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "1.1.1.0.preview.3", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gaNwl2azgcsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=gaNwl2azgcsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9781118348130", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "1118348133", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=gaNwl2azgcsC&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 320, 
+        "previewLink": "http://books.google.com/books?id=gaNwl2azgcsC&pg=PT21&dq=intitle:web+development&hl=&cd=27&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2012-11-05", 
+        "publisher": "John Wiley & Sons", 
+        "readingModes": {
+          "image": true, 
+          "text": true
+        }, 
+        "title": "Smashing Mobile Web Development"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "acsTokenLink": "http://books.google.com/books/download/Mastering_Web_Development_with_Microsoft-sample-pdf.acsm?id=XXtoCqnxXVUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=XXtoCqnxXVUC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "aX55d6UXnHQ", 
+      "id": "XXtoCqnxXVUC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "buyLink": "http://books.google.com/books?id=XXtoCqnxXVUC&dq=intitle:web+development&hl=&buy=&source=gbs_api", 
+        "country": "US", 
+        "isEbook": true, 
+        "listPrice": {
+          "amount": 32.99, 
+          "currencyCode": "USD"
+        }, 
+        "offers": [
+          {
+            "finskyOfferType": 1, 
+            "listPrice": {
+              "amountInMicros": 32990000.0, 
+              "currencyCode": "USD"
+            }, 
+            "retailPrice": {
+              "amountInMicros": 26390000.0, 
+              "currencyCode": "USD"
+            }
+          }
+        ], 
+        "retailPrice": {
+          "amount": 26.39, 
+          "currencyCode": "USD"
+        }, 
+        "saleability": "FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Click Open and Visual Web <b>developer</b> will open the Web site for you. NOTE If you <br>\ninstall 118 after you install Visual Web <b>Developer</b>, IlS won&#39;t have the proper <br>\nconfiguration settings for working with ASP.NET 2.0. Visual Web <b>Developer</b> <br>\ndetects&nbsp;..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XXtoCqnxXVUC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "John Paul Mueller"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Mastering_Web_Development_with_Microsoft.html?hl=&id=XXtoCqnxXVUC", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "3.1.0.0.preview.1", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XXtoCqnxXVUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=XXtoCqnxXVUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "0471788872", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9780471788874", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=XXtoCqnxXVUC&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 822, 
+        "previewLink": "http://books.google.com/books?id=XXtoCqnxXVUC&pg=PA50&dq=intitle:web+development&hl=&cd=28&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2006-02-06", 
+        "publisher": "John Wiley & Sons", 
+        "readingModes": {
+          "image": true, 
+          "text": false
+        }, 
+        "title": "Mastering Web Development with Microsoft Visual Studio 2005"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "acsTokenLink": "http://books.google.com/books/download/Cloud_Setup_for_Web_Development-sample-pdf.acsm?id=IAgJBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=IAgJBgAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "fbNI+YOwv2c", 
+      "id": "IAgJBgAAQBAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "buyLink": "http://books.google.com/books?id=IAgJBgAAQBAJ&dq=intitle:web+development&hl=&buy=&source=gbs_api", 
+        "country": "US", 
+        "isEbook": true, 
+        "listPrice": {
+          "amount": 4.99, 
+          "currencyCode": "USD"
+        }, 
+        "offers": [
+          {
+            "finskyOfferType": 1, 
+            "listPrice": {
+              "amountInMicros": 4990000.0, 
+              "currencyCode": "USD"
+            }, 
+            "retailPrice": {
+              "amountInMicros": 3820000.0, 
+              "currencyCode": "USD"
+            }
+          }
+        ], 
+        "retailPrice": {
+          "amount": 3.82, 
+          "currencyCode": "USD"
+        }, 
+        "saleability": "FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "This tutorial consists of stepby-step guides on how to configure and <b>develop</b> <br>\ncloud-based website. The technology and techniques featured here are intended <br>\nfor web designers and developers who want to create a website that is almost&nbsp;..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IAgJBgAAQBAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Jf Ng", 
+          "James Wong"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Cloud_Setup_for_Web_Development.html?hl=&id=IAgJBgAAQBAJ", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "\"Cloud Setup for Web Development\" consists of step-by-step guides on how to configure and develop cloud-based website. The technology and techniques featured here are intended for web designers and developers who want to create a website that is almost guaranteed to be online 100% of the time, loads fast, and can handle any amount of traffic for their projects or clients. In this tutorial, you will learn how to develop a website that is server-less (does not require traditional hosting),'point' your domain (not sub-domain!) to Amazon's S3secure for users by having SSL encryption,based on services of the leaders in cloud technology to provide such functionalities, as well asusing content delivery networks (CDN) to serve contents to end-users with high availability and high performance", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IAgJBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=IAgJBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "infoLink": "http://books.google.com/books?id=IAgJBgAAQBAJ&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 28, 
+        "previewLink": "http://books.google.com/books?id=IAgJBgAAQBAJ&pg=PA3&dq=intitle:web+development&hl=&cd=29&source=gbs_api", 
+        "printType": "BOOK", 
+        "publisher": "SilverBulbs", 
+        "readingModes": {
+          "image": true, 
+          "text": false
+        }, 
+        "subtitle": "The essential knowledge for every designer or developer", 
+        "title": "Cloud Setup for Web Development"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": true
+        }, 
+        "pdf": {
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=FpifBAAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "LX1e4qj/Knw", 
+      "id": "FpifBAAAQBAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "buyLink": "http://books.google.com/books?id=FpifBAAAQBAJ&dq=intitle:web+development&hl=&buy=&source=gbs_api", 
+        "country": "US", 
+        "isEbook": true, 
+        "listPrice": {
+          "amount": 29.99, 
+          "currencyCode": "USD"
+        }, 
+        "offers": [
+          {
+            "finskyOfferType": 1, 
+            "listPrice": {
+              "amountInMicros": 29990000.0, 
+              "currencyCode": "USD"
+            }, 
+            "retailPrice": {
+              "amountInMicros": 20990000.0, 
+              "currencyCode": "USD"
+            }
+          }
+        ], 
+        "retailPrice": {
+          "amount": 20.99, 
+          "currencyCode": "USD"
+        }, 
+        "saleability": "FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "JavaScript is an interpreted computer <b>programming</b> language that wasbuiltfor the <br>\nWeb.First implemented bythe Netscape Navigator web browser, it becamethe <br>\n<b>programming</b> language that webbrowsers useto execute clientside logic.Inthe <br>\nmid&nbsp;..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FpifBAAAQBAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Amos Q. Haviv"
+        ], 
+        "averageRating": 5.0, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/MEAN_Web_Development.html?hl=&id=FpifBAAAQBAJ", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "1.1.1.0.preview.3", 
+        "description": "If you are a web or a full-stack JavaScript developer who is interested in learning how to build modern web applications using the MEAN stack, this book is for you.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FpifBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=FpifBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9781783983292", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "1783983299", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=FpifBAAAQBAJ&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 354, 
+        "previewLink": "http://books.google.com/books?id=FpifBAAAQBAJ&pg=PT40&dq=intitle:web+development&hl=&cd=30&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2014-09-25", 
+        "publisher": "Packt Publishing Ltd", 
+        "ratingsCount": 2, 
+        "readingModes": {
+          "image": true, 
+          "text": true
+        }, 
+        "title": "MEAN Web Development"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "acsTokenLink": "http://books.google.com/books/download/Web_Development_Strategy-sample-pdf.acsm?id=lv8YAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=lv8YAwAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "op28oVRumBY", 
+      "id": "lv8YAwAAQBAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "buyLink": "http://books.google.com/books?id=lv8YAwAAQBAJ&dq=intitle:web+development&hl=&buy=&source=gbs_api", 
+        "country": "US", 
+        "isEbook": true, 
+        "listPrice": {
+          "amount": 399.99, 
+          "currencyCode": "USD"
+        }, 
+        "offers": [
+          {
+            "finskyOfferType": 1, 
+            "listPrice": {
+              "amountInMicros": 399990000.0, 
+              "currencyCode": "USD"
+            }, 
+            "retailPrice": {
+              "amountInMicros": 319990000.0, 
+              "currencyCode": "USD"
+            }
+          }
+        ], 
+        "retailPrice": {
+          "amount": 319.99, 
+          "currencyCode": "USD"
+        }, 
+        "saleability": "FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "ABSTRACT This is the fourth of 8 lessons in the web <b>development</b> strategy <br>\ncourse. This particular lesson will deal with hands on training on writing deep <br>\ninformative material. The student will realize firsthand the significance of not <br>\ntaking&nbsp;..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lv8YAwAAQBAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Maximus McCullough"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Web_Development_Strategy.html?hl=&id=lv8YAwAAQBAJ", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "This is eight lessons written for course materials for the Web Development Strategy Class. This book is a summary of what is taught in the course. Subject material covers Content Management Systems and websites, detailed Search Engine Optimization techniques, how to make money selling advertising on your website, social media integration and creation, and many suggestions on utilizing your work flow.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lv8YAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=lv8YAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "infoLink": "http://books.google.com/books?id=lv8YAwAAQBAJ&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 264, 
+        "previewLink": "http://books.google.com/books?id=lv8YAwAAQBAJ&pg=PA90&dq=intitle:web+development&hl=&cd=31&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2014-03-16", 
+        "publisher": "A1WebsitePro LLC", 
+        "readingModes": {
+          "image": true, 
+          "text": false
+        }, 
+        "subtitle": "With Videos", 
+        "title": "Web Development Strategy"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "acsTokenLink": "http://books.google.com/books/download/PHP_and_MySQL_Web_Development_All_in_One-sample-epub.acsm?id=ZtOHNw6jA7kC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "pdf": {
+          "acsTokenLink": "http://books.google.com/books/download/PHP_and_MySQL_Web_Development_All_in_One-sample-pdf.acsm?id=ZtOHNw6jA7kC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=ZtOHNw6jA7kC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "E3LMNmjy8jM", 
+      "id": "ZtOHNw6jA7kC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "buyLink": "http://books.google.com/books?id=ZtOHNw6jA7kC&dq=intitle:web+development&hl=&buy=&source=gbs_api", 
+        "country": "US", 
+        "isEbook": true, 
+        "listPrice": {
+          "amount": 24.99, 
+          "currencyCode": "USD"
+        }, 
+        "offers": [
+          {
+            "finskyOfferType": 1, 
+            "listPrice": {
+              "amountInMicros": 24990000.0, 
+              "currencyCode": "USD"
+            }, 
+            "retailPrice": {
+              "amountInMicros": 19990000.0, 
+              "currencyCode": "USD"
+            }
+          }
+        ], 
+        "retailPrice": {
+          "amount": 19.99, 
+          "currencyCode": "USD"
+        }, 
+        "saleability": "FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": ":1 :53 &#39;U n O -u d \u00a7 On a local computer: You can set up a local computer for <br>\n<b>development</b>. You can install the Web site software on your local computer. You <br>\ncan g g then create your Web page files on your computer and View them I: <br>\nthrough&nbsp;..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZtOHNw6jA7kC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Janet Valade"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/PHP_and_MySQL_Web_Development_All_in_One.html?hl=&id=ZtOHNw6jA7kC", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "2.3.5.0.preview.3", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZtOHNw6jA7kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=ZtOHNw6jA7kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "1118051750", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9781118051757", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=ZtOHNw6jA7kC&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 672, 
+        "previewLink": "http://books.google.com/books?id=ZtOHNw6jA7kC&pg=PA17&dq=intitle:web+development&hl=&cd=32&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2011-03-03", 
+        "publisher": "John Wiley & Sons", 
+        "readingModes": {
+          "image": true, 
+          "text": true
+        }, 
+        "title": "PHP and MySQL Web Development All-in-One Desk Reference For Dummies"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "acsTokenLink": "http://books.google.com/books/download/Wireless_Web_Development-sample-pdf.acsm?id=wr9hQUDzaXEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=wr9hQUDzaXEC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "AyGbowR/geE", 
+      "id": "wr9hQUDzaXEC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Developers should keep the same concerns in mind when creating content for <br>\nsynchronized browsers as they do when <b>developing</b> for other mobile Web-based <br>\ndevices: relatively little memory, small screen size, and limited processor speed."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wr9hQUDzaXEC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Ray Rischpater"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Wireless_Web_Development.html?hl=&id=wr9hQUDzaXEC", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "Wireless Web Development, Second Edition provides both a substantial engineering and business background to wireless developers, covering numerous facets of wireless web software geared toward today's mobile platforms and mobile devices. Wireless technologies, including wireless HTML, WAP 2.0, XML, Palm's WCA, and i-mode, are discussed in detail, with individual chapters devoted to each. Author and industry veteran Ray Rischpater places special emphasis on the differences between the Web and the wireless Web, and even between wireless devices themselves, helping the reader to better understand the engineering and interface issues that must be addressed when creating wireless web applications. By providing the latest information about technologies that have emerged since the first edition was published (i-mode, the growing emphasis on XML in wireless, and WAP 2.0), as well as relegating to historical status those technologies that have failed the test of time (Microsoft Mobile Channels and HDML), Rischpater offers readers a comprehensive and completely updated guide to the latest wireless technologies and development strategies.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wr9hQUDzaXEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=wr9hQUDzaXEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9781590590287", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "1590590287", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=wr9hQUDzaXEC&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 408, 
+        "previewLink": "http://books.google.com/books?id=wr9hQUDzaXEC&pg=PA291&dq=intitle:web+development&hl=&cd=33&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2002-07-31", 
+        "publisher": "Apress", 
+        "readingModes": {
+          "image": true, 
+          "text": false
+        }, 
+        "title": "Wireless Web Development"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=p5x9-ZKQF0sC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "0ibc95le8t4", 
+      "id": "p5x9-ZKQF0sC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Ka Iok Tong, Ka Iok Kent Tong. 347 Chapter 12 Chapter 12 Test Driven <br>\n<b>Development</b> with HtmlUnit What&#39;s in this chapter? In this chapter you&#39;ll learn <br>\nsomething. Test Driven <b>Development</b> with HtmlUnit."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/p5x9-ZKQF0sC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Ka Iok Tong", 
+          "Ka Iok Kent Tong"
+        ], 
+        "averageRating": 4.0, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Enjoying_Web_Development_with_Tapestry.html?hl=&id=p5x9-ZKQF0sC", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "1.1.0.0.preview.1", 
+        "description": "If you'd like to create web-based applications easily, then this book is for you. More importantly, it shows you how to do that with joy and feel good about your own work! You don't need to know servlet or JSP while your productivity will be much higher than using servlet or JSP directly. This is possible because we're going to use a library called \"Tapestry\" that makes complicated stuff simple and elegant. The first four chapters are freely available on http: //agileskills2.org/EWDT. You can judge it yourself.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=p5x9-ZKQF0sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=p5x9-ZKQF0sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9781411649132", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "1411649133", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=p5x9-ZKQF0sC&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 495, 
+        "previewLink": "http://books.google.com/books?id=p5x9-ZKQF0sC&pg=PA347&dq=intitle:web+development&hl=&cd=34&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2006-04", 
+        "publisher": "TipTec Development", 
+        "ratingsCount": 1, 
+        "readingModes": {
+          "image": true, 
+          "text": false
+        }, 
+        "title": "Enjoying Web Development with Tapestry"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": true
+        }, 
+        "pdf": {
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=S6NIeygP1_0C&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "Hari46bewQ0", 
+      "id": "S6NIeygP1_0C", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "buyLink": "http://books.google.com/books?id=S6NIeygP1_0C&dq=intitle:web+development&hl=&buy=&source=gbs_api", 
+        "country": "US", 
+        "isEbook": true, 
+        "listPrice": {
+          "amount": 23.99, 
+          "currencyCode": "USD"
+        }, 
+        "offers": [
+          {
+            "finskyOfferType": 1, 
+            "listPrice": {
+              "amountInMicros": 23990000.0, 
+              "currencyCode": "USD"
+            }, 
+            "retailPrice": {
+              "amountInMicros": 14590000.0, 
+              "currencyCode": "USD"
+            }
+          }
+        ], 
+        "retailPrice": {
+          "amount": 14.59, 
+          "currencyCode": "USD"
+        }, 
+        "saleability": "FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Harness the Cutting Edge Features of Dreamweaver for Mobile and Web <br>\n<b>Development</b> David Karlins. Preface. Dreamweaveristhemost powerful and <br>\nindustryleading web <b>design</b> software that utilizesinnovativeweb technologies <br>\nsuch as HTML5&nbsp;..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/S6NIeygP1_0C", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "David Karlins"
+        ], 
+        "averageRating": 3.0, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Dreamweaver_CS5_5_Mobile_and_Web_Develop.html?hl=&id=S6NIeygP1_0C", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "2.3.3.0.preview.3", 
+        "description": "Harness the cutting edge features of Dreamweaver for mobile and web development.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=S6NIeygP1_0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=S6NIeygP1_0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9781849691598", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "1849691592", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=S6NIeygP1_0C&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 284, 
+        "previewLink": "http://books.google.com/books?id=S6NIeygP1_0C&pg=PT19&dq=intitle:web+development&hl=&cd=35&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2011-09-23", 
+        "publisher": "Packt Publishing Ltd", 
+        "ratingsCount": 1, 
+        "readingModes": {
+          "image": true, 
+          "text": true
+        }, 
+        "subtitle": "Harness the Cutting Edge Features of Dreamweaver for Mobile and Web Development", 
+        "title": "Dreamweaver CS5.5 Mobile and Web Development with HTML5, CSS3, and JQuery"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=bUwZMUAliL4C&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "aEC5sJUZeYE", 
+      "id": "bUwZMUAliL4C", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Web. Sites. Apache Commons Beanutils, http://commons.apache.org/beanutils <br>\nFedEx <b>Developer</b> Site, http://www.fedex.com/us/<b>developer</b>/ Google <b>Developer</b> <br>\nSite, http://code.google.com/apis/maps/documentation/webservices/ Hibernate,&nbsp;..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bUwZMUAliL4C", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Tim Downey"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Guide_to_Web_Development_with_Java.html?hl=&id=bUwZMUAliL4C", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "This comprehensive textbook introduces readers to the three-tiered, Model-View-Controller (MVC) architecture by using Hibernate, JSPs, and Java Servlets. These three technologies all use Java, so that a student with a background in programming will be able to master them with ease, with the end result of being able to create web applications that use MVC, validate user input and save data to a database. Features: presents the many topics of web development in small steps, in an accessible, easy-to-follow style; uses powerful technologies that are freely available on the web to speed up web development, such as JSP, JavaBeans, annotations, JSTL, Java 1.5, Hibernate and Tomcat; discusses HTML, HTML Forms, Cascading Style Sheets and XML; introduces core technologies from the outset, such as the MVC architecture; contains questions and exercises at the end of each chapter, detailed illustrations, chapter summaries, and a glossary; includes examples for accessing common web services.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bUwZMUAliL4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=bUwZMUAliL4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9781447124429", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "1447124421", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=bUwZMUAliL4C&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 386, 
+        "previewLink": "http://books.google.com/books?id=bUwZMUAliL4C&pg=PA373&dq=intitle:web+development&hl=&cd=36&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2012-02-19", 
+        "publisher": "Springer Science & Business Media", 
+        "readingModes": {
+          "image": true, 
+          "text": false
+        }, 
+        "subtitle": "Understanding Website Creation", 
+        "title": "Guide to Web Development with Java"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "acsTokenLink": "http://books.google.com/books/download/Doing_Web_Development-sample-pdf.acsm?id=eboYAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=eboYAAAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "GslnOTF4Iew", 
+      "id": "eboYAAAAQBAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "buyLink": "http://books.google.com/books?id=eboYAAAAQBAJ&dq=intitle:web+development&hl=&buy=&source=gbs_api", 
+        "country": "US", 
+        "isEbook": true, 
+        "listPrice": {
+          "amount": 39.95, 
+          "currencyCode": "USD"
+        }, 
+        "offers": [
+          {
+            "finskyOfferType": 1, 
+            "listPrice": {
+              "amountInMicros": 39950000.0, 
+              "currencyCode": "USD"
+            }, 
+            "retailPrice": {
+              "amountInMicros": 31160000.0, 
+              "currencyCode": "USD"
+            }
+          }
+        ], 
+        "retailPrice": {
+          "amount": 31.16, 
+          "currencyCode": "USD"
+        }, 
+        "saleability": "FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "They plan to launch around the world applauded this news their new Web-based <br>\nplay once hear anywhere technology to broadcast the event Tuesday Microsoft <br>\nannounced that the latest version of its Web <b>development</b> environment, called&nbsp;..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eboYAAAAQBAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Deborah Kurata"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Doing_Web_Development.html?hl=&id=eboYAAAAQBAJ", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "1.2.1.0.preview.1", 
+        "description": "Written for professional software developers this book maps out the client-side issues that every Web application programmer needs to know. It provides comprehensive coverage on all aspects of client-side Web development, from the basics of HTML to client-side scripting to XML, XSL, and SOAP. In doing so, Kurata provides an essential balance to the server-side techniques, such as database access and server component development. These client-side techniques enable Web application developers to offload work to the client computer, improving scalability by reducing server requests, while simultaneously offering a richer user experience. To that end, this book is indispensable reading for any software developer interested in up-to-date coverage of the essentials of web development.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eboYAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=eboYAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9781430208525", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "143020852X", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=eboYAAAAQBAJ&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 478, 
+        "previewLink": "http://books.google.com/books?id=eboYAAAAQBAJ&pg=PA107&dq=intitle:web+development&hl=&cd=37&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2008-01-01", 
+        "publisher": "Apress", 
+        "readingModes": {
+          "image": true, 
+          "text": false
+        }, 
+        "subtitle": "Client-Side Techniques", 
+        "title": "Doing Web Development"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=wTB4Gpiv5MQC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "MPAQoWlgiuY", 
+      "id": "wTB4Gpiv5MQC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "However, many factors can influence those variables, including the <b>programming</b> <br>\nlanguage <b>development</b> methods you choose. This Short Cut shows you what a <br>\ngood choice it is to use PHP and Smarty for large-scale web projects."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wTB4Gpiv5MQC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Bruno Pedro", 
+          "Vitor Rodrigues"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/PHP_and_Smarty_on_Large_Scale_Web_Develo.html?hl=&id=wTB4Gpiv5MQC", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "With web development now being considereda commodity, projects are gettinglarger every day. If you are dealing with large projects ona daily basis, you know that the mostdifficult task is to deliver products ontime and within a budget.However, many factors can influencethose variables, including the programminglanguage development methodsyou choose. This Short Cut shows you what a goodchoice it is to use PHP and Smarty forlarge-scale web projects. If you follow the principles and methodologiesdescribed here, you'll achievegreater productivity in your developmenttasks.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wTB4Gpiv5MQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=wTB4Gpiv5MQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9780596513795", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "0596513798", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=wTB4Gpiv5MQC&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 36, 
+        "previewLink": "http://books.google.com/books?id=wTB4Gpiv5MQC&pg=PA1&dq=intitle:web+development&hl=&cd=38&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2007-06-19", 
+        "publisher": "\"O'Reilly Media, Inc.\"", 
+        "readingModes": {
+          "image": true, 
+          "text": false
+        }, 
+        "title": "PHP and Smarty on Large-Scale Web Development"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": true
+        }, 
+        "pdf": {
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=0GOSxItz1ksC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "jdL+gssJZF0", 
+      "id": "0GOSxItz1ksC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "buyLink": "http://books.google.com/books?id=0GOSxItz1ksC&dq=intitle:web+development&hl=&buy=&source=gbs_api", 
+        "country": "US", 
+        "isEbook": true, 
+        "listPrice": {
+          "amount": 26.99, 
+          "currencyCode": "USD"
+        }, 
+        "offers": [
+          {
+            "finskyOfferType": 1, 
+            "listPrice": {
+              "amountInMicros": 26990000.0, 
+              "currencyCode": "USD"
+            }, 
+            "retailPrice": {
+              "amountInMicros": 26990000.0, 
+              "currencyCode": "USD"
+            }
+          }
+        ], 
+        "retailPrice": {
+          "amount": 26.99, 
+          "currencyCode": "USD"
+        }, 
+        "saleability": "FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "... Approach CSSBased <b>Design</b> Wireless CSS WhentoUse ThisApproach When <br>\ntoAvoid This Approach Mobile Site When to Use This Approach <br>\nWhentoAvoidThis Approach Mobile Navigationand Information Architecture <br>\nStepByStep: Planning&nbsp;..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0GOSxItz1ksC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Nirav Mehta"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Mobile_Web_Development.html?hl=&id=0GOSxItz1ksC", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "1.2.2.0.preview.3", 
+        "description": "Building mobile websites, SMS and MMS messaging, mobile payments, and automated voice call systems with XHTML MP, WCSS, and mobile AJAX.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0GOSxItz1ksC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=0GOSxItz1ksC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9781847193445", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "1847193447", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=0GOSxItz1ksC&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 236, 
+        "previewLink": "http://books.google.com/books?id=0GOSxItz1ksC&pg=PT2&dq=intitle:web+development&hl=&cd=39&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2008-02-06", 
+        "publisher": "Packt Publishing Ltd", 
+        "readingModes": {
+          "image": true, 
+          "text": true
+        }, 
+        "title": "Mobile Web Development"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "acsTokenLink": "http://books.google.com/books/download/Web_Development_with_the_Mac-sample-epub.acsm?id=-r92yRlu15oC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "pdf": {
+          "acsTokenLink": "http://books.google.com/books/download/Web_Development_with_the_Mac-sample-pdf.acsm?id=-r92yRlu15oC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=-r92yRlu15oC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "l0jbVpaRAaY", 
+      "id": "-r92yRlu15oC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "buyLink": "http://books.google.com/books?id=-r92yRlu15oC&dq=intitle:web+development&hl=&buy=&source=gbs_api", 
+        "country": "US", 
+        "isEbook": true, 
+        "listPrice": {
+          "amount": 32.99, 
+          "currencyCode": "USD"
+        }, 
+        "offers": [
+          {
+            "finskyOfferType": 1, 
+            "listPrice": {
+              "amountInMicros": 32990000.0, 
+              "currencyCode": "USD"
+            }, 
+            "retailPrice": {
+              "amountInMicros": 26390000.0, 
+              "currencyCode": "USD"
+            }
+          }
+        ], 
+        "retailPrice": {
+          "amount": 26.39, 
+          "currencyCode": "USD"
+        }, 
+        "saleability": "FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Part III: Web <b>Design</b> Chapter 7 <b>Design</b> Concepts Chapter 8 User Interface <b>Design</b> <br>\nChapter 9 Search Engine Optimization Chapter 10 Wireframe Basics Chapter 11 <br>\nThe Grid Chapter 12 Photoshop 101 Chapter 7: <b>Design</b> Concepts In This&nbsp;..."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-r92yRlu15oC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Aaron Vegh"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Web_Development_with_the_Mac.html?hl=&id=-r92yRlu15oC", 
+        "categories": [
+          "Computers"
+        ], 
+        "contentVersion": "1.6.4.0.preview.3", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-r92yRlu15oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=-r92yRlu15oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9780470767917", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "047076791X", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=-r92yRlu15oC&dq=intitle:web+development&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 544, 
+        "previewLink": "http://books.google.com/books?id=-r92yRlu15oC&pg=PT194&dq=intitle:web+development&hl=&cd=40&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2010-02-25", 
+        "publisher": "John Wiley & Sons", 
+        "readingModes": {
+          "image": true, 
+          "text": true
+        }, 
+        "title": "Web Development with the Mac"
+      }
+    }
+  ], 
+  "kind": "books#volumes", 
+  "totalItems": 511
+}

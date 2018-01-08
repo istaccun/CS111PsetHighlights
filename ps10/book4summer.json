@@ -1,0 +1,2656 @@
+{
+  "items": [
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": true
+        }, 
+        "pdf": {
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=HBtjeyt-H2kC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "WsUKKvH10rk", 
+      "id": "HBtjeyt-H2kC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "An emotional tale of resilience by Annie Murray, A Hopscotch Summer tells the story of a young girl and her struggle to keep her family afloat."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HBtjeyt-H2kC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Annie Murray"
+        ], 
+        "averageRating": 3.5, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/A_Hopscotch_Summer.html?hl=&id=HBtjeyt-H2kC", 
+        "categories": [
+          "Fiction"
+        ], 
+        "contentVersion": "1.4.3.0.preview.2", 
+        "description": "An emotional tale of resilience by Annie Murray, A Hopscotch Summer tells the story of a young girl and her struggle to keep her family afloat. In the impoverished area of Nechells in Birmingham in the 1930s, young Emma Brown's life is turned upside down when her mother, Cynthia, has another baby. Emma has always been a happy-go-lucky child, content as long as things were all right at home with her parents, and her brother and sister. But when the baby is born, Cynthia doesn't seem able to cope, and even her lifelong friend and neighbour, Dot, can't seem to get through to her. Cynthia's husband, Bob, tries to do his best, but when he feels he's losing the wife he loves so much he turns to drink. Poor Emma can't seem to keep up with looking after the household, and soon it seems that the only thing to do is for Cynthia to go and stay with her tyrannical older sister across the city. Life gets even tougher for Emma with her mother away, and she decides it's time to travel across Birmingham and bring her mother home. But the woman she discovers is very different to the mother she remembers . . . A Hopscotch Summer is followed by Solider Girl and All the Days of Our Lives, which follow the stories of Molly and Katie.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HBtjeyt-H2kC&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=HBtjeyt-H2kC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9780230740389", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "0230740383", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=HBtjeyt-H2kC&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 406, 
+        "previewLink": "http://books.google.com/books?id=HBtjeyt-H2kC&dq=intitle:summer&hl=&cd=1&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2009-05-01", 
+        "publisher": "Pan Macmillan", 
+        "ratingsCount": 16, 
+        "readingModes": {
+          "image": false, 
+          "text": true
+        }, 
+        "title": "A Hopscotch Summer"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "acsTokenLink": "http://books.google.com/books/download/Cabo_and_Coral_Dog_Days_of_Summer-sample-pdf.acsm?id=Oel0NhhMwhYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=Oel0NhhMwhYC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "R5qRU43P0yM", 
+      "id": "Oel0NhhMwhYC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "buyLink": "http://books.google.com/books?id=Oel0NhhMwhYC&dq=intitle:summer&hl=&buy=&source=gbs_api", 
+        "country": "US", 
+        "isEbook": true, 
+        "listPrice": {
+          "amount": 4.99, 
+          "currencyCode": "USD"
+        }, 
+        "offers": [
+          {
+            "finskyOfferType": 1, 
+            "listPrice": {
+              "amountInMicros": 4990000.0, 
+              "currencyCode": "USD"
+            }, 
+            "retailPrice": {
+              "amountInMicros": 3820000.0, 
+              "currencyCode": "USD"
+            }
+          }
+        ], 
+        "retailPrice": {
+          "amount": 3.82, 
+          "currencyCode": "USD"
+        }, 
+        "saleability": "FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Oel0NhhMwhYC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Dr. Udo Wahn"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Cabo_and_Coral_Dog_Days_of_Summer.html?hl=&id=Oel0NhhMwhYC", 
+        "categories": [
+          "Pets"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Oel0NhhMwhYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=Oel0NhhMwhYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9780983384137", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "0983384134", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=Oel0NhhMwhYC&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "previewLink": "http://books.google.com/books?id=Oel0NhhMwhYC&printsec=frontcover&dq=intitle:summer&hl=&cd=2&source=gbs_api", 
+        "printType": "BOOK", 
+        "publisher": "CaboandCoral", 
+        "readingModes": {
+          "image": true, 
+          "text": false
+        }, 
+        "title": "Cabo and Coral Dog Days of Summer"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=cqlarBcDolcC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "KNONasx63Ok", 
+      "id": "cqlarBcDolcC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "The diary of a frog-loving girl&#39;s first summer camp experience, from the rocky beginnings to the final, fun-filled days."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cqlarBcDolcC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Cynthia Copeland Lewis"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Dilly_s_Summer_Camp_Diary.html?hl=&id=cqlarBcDolcC", 
+        "categories": [
+          "Juvenile Fiction"
+        ], 
+        "contentVersion": "0.1.0.0.preview.1", 
+        "description": "The diary of a frog-loving girl's first summer camp experience, from the rocky beginnings to the final, fun-filled days.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cqlarBcDolcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=cqlarBcDolcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "076130990X", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9780761309901", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=cqlarBcDolcC&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 32, 
+        "previewLink": "http://books.google.com/books?id=cqlarBcDolcC&printsec=frontcover&dq=intitle:summer&hl=&cd=3&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2000", 
+        "publisher": "Millbrook Press", 
+        "readingModes": {
+          "image": true, 
+          "text": false
+        }, 
+        "title": "Dilly's Summer Camp Diary"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=ySXgtmxL1hAC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "fZINaIez7VY", 
+      "id": "ySXgtmxL1hAC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Simple text and color photographs introduce the weather, sights, and activities associated with summer."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ySXgtmxL1hAC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Sian Smith"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Summer.html?hl=&id=ySXgtmxL1hAC", 
+        "categories": [
+          "Juvenile Nonfiction"
+        ], 
+        "contentVersion": "1.1.0.0.preview.1", 
+        "description": "Simple text and color photographs introduce the weather, sights, and activities associated with summer.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ySXgtmxL1hAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=ySXgtmxL1hAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "1432927345", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9781432927349", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=ySXgtmxL1hAC&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 24, 
+        "previewLink": "http://books.google.com/books?id=ySXgtmxL1hAC&printsec=frontcover&dq=intitle:summer&hl=&cd=4&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2009", 
+        "publisher": "Capstone Classroom", 
+        "readingModes": {
+          "image": true, 
+          "text": false
+        }, 
+        "title": "Summer"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=vy85AQAAIAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "8FjSk83rDK0", 
+      "id": "vy85AQAAIAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vy85AQAAIAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Robert Scharff"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Complete_summer_home_handbook.html?hl=&id=vy85AQAAIAAJ", 
+        "categories": [
+          "House & Home"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vy85AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=vy85AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "UCSD:31822012444832", 
+            "type": "OTHER"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=vy85AQAAIAAJ&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 236, 
+        "previewLink": "http://books.google.com/books?id=vy85AQAAIAAJ&dq=intitle:summer&hl=&cd=5&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1952", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "Complete summer home handbook"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=f2DzAAAAMAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "YJBZP+ahuPY", 
+      "id": "f2DzAAAAMAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/f2DzAAAAMAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/130_summer_homes.html?hl=&id=f2DzAAAAMAAJ", 
+        "categories": [
+          "Architecture"
+        ], 
+        "contentVersion": "0.1.1.0.preview.0", 
+        "industryIdentifiers": [
+          {
+            "identifier": "WISC:89047212931", 
+            "type": "OTHER"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=f2DzAAAAMAAJ&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 223, 
+        "previewLink": "http://books.google.com/books?id=f2DzAAAAMAAJ&dq=intitle:summer&hl=&cd=6&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1942", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "subtitle": "log cabins, beach houses, week-end farms", 
+        "title": "130 summer homes"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "acsTokenLink": "http://books.google.com/books/download/Summer_Boys_2_Next_Summer-sample-epub.acsm?id=RvWVavwXIAQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "pdf": {
+          "acsTokenLink": "http://books.google.com/books/download/Summer_Boys_2_Next_Summer-sample-pdf.acsm?id=RvWVavwXIAQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=RvWVavwXIAQC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "wxMOuS+rGPo", 
+      "id": "RvWVavwXIAQC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "buyLink": "http://books.google.com/books?id=RvWVavwXIAQC&dq=intitle:summer&hl=&buy=&source=gbs_api", 
+        "country": "US", 
+        "isEbook": true, 
+        "listPrice": {
+          "amount": 9.99, 
+          "currencyCode": "USD"
+        }, 
+        "offers": [
+          {
+            "finskyOfferType": 1, 
+            "listPrice": {
+              "amountInMicros": 9990000.0, 
+              "currencyCode": "USD"
+            }, 
+            "retailPrice": {
+              "amountInMicros": 7990000.0, 
+              "currencyCode": "USD"
+            }
+          }
+        ], 
+        "retailPrice": {
+          "amount": 7.99, 
+          "currencyCode": "USD"
+        }, 
+        "saleability": "FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Things are heating up again."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RvWVavwXIAQC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Hailey Abbott"
+        ], 
+        "averageRating": 3.5, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Summer_Boys_2_Next_Summer.html?hl=&id=RvWVavwXIAQC", 
+        "categories": [
+          "Juvenile Fiction"
+        ], 
+        "contentVersion": "1.3.3.0.preview.3", 
+        "description": "Things are heating up again. Can you handle it? The SUMMER BOYS girls are back for another dose of sizzling drama. Will soul mates Beth and George be able to maintain their long-distance love affair, even while another boy is catching Beth's eye? Will reformed bad girl Ella REALLY be able to suppress her wild ways? And can shy, smart Kelsi open herself up to love again, even after she's had her heart broken? And what's happening with Jamie on her summer writing program? Find out all this--and much more--in this sexy sequel.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RvWVavwXIAQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=RvWVavwXIAQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9780545231886", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "0545231884", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=RvWVavwXIAQC&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 240, 
+        "previewLink": "http://books.google.com/books?id=RvWVavwXIAQC&printsec=frontcover&dq=intitle:summer&hl=&cd=7&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2010-01-01", 
+        "publisher": "Scholastic Inc.", 
+        "ratingsCount": 128, 
+        "readingModes": {
+          "image": true, 
+          "text": true
+        }, 
+        "title": "Summer Boys #2: Next Summer"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=EzFGq-rNjNgC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "cMbJyuqngL4", 
+      "id": "EzFGq-rNjNgC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EzFGq-rNjNgC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "David Tunkin"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Spring_summer_fall_winter.html?hl=&id=EzFGq-rNjNgC", 
+        "categories": [
+          "Literacy"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EzFGq-rNjNgC&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=EzFGq-rNjNgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "0792292138", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9780792292135", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=EzFGq-rNjNgC&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 12, 
+        "previewLink": "http://books.google.com/books?id=EzFGq-rNjNgC&dq=intitle:summer&hl=&cd=8&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2001", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "Spring, summer, fall, winter"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=5k9AAAAAIAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "bitX4na+vcU", 
+      "id": "5k9AAAAAIAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5k9AAAAAIAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Mrs. Aline Murray Kilmer"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/A_Buttonwood_Summer.html?hl=&id=5k9AAAAAIAAJ", 
+        "categories": [
+          "Summer"
+        ], 
+        "contentVersion": "0.1.1.0.preview.0", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5k9AAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=5k9AAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "UCAL:$B112523", 
+            "type": "OTHER"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=5k9AAAAAIAAJ&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 185, 
+        "previewLink": "http://books.google.com/books?id=5k9AAAAAIAAJ&dq=intitle:summer&hl=&cd=9&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1929", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "A Buttonwood Summer"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=BpLhAAAAMAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "JkS37Jq28JA", 
+      "id": "BpLhAAAAMAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BpLhAAAAMAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Where_to_Spend_the_Summer.html?hl=&id=BpLhAAAAMAAJ", 
+        "categories": [
+          "Emmet County (Mich.)"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "industryIdentifiers": [
+          {
+            "identifier": "UOM:39015071296340", 
+            "type": "OTHER"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=BpLhAAAAMAAJ&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 32, 
+        "previewLink": "http://books.google.com/books?id=BpLhAAAAMAAJ&dq=intitle:summer&hl=&cd=10&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1902*", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "subtitle": "Michigan Resorts on Little Traverse Bay,Petosky, Harbor Springs, Harbor Point, Bay View, Wequetonsing, Roaring Brook, Emmet Beach, Oden, Walloon Lake", 
+        "title": "Where to Spend the Summer"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=gJMhf2F2voUC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "IL9rW1ZV9sE", 
+      "id": "gJMhf2F2voUC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Includes instructions for a variety of summer projects for children"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gJMhf2F2voUC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Kathy Peel"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/A_Mother_s_Manual_for_Summer_Survival.html?hl=&id=gJMhf2F2voUC", 
+        "categories": [
+          "House & Home"
+        ], 
+        "contentVersion": "0.1.1.0.preview.0", 
+        "description": "Includes instructions for a variety of summer projects for children", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gJMhf2F2voUC&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=gJMhf2F2voUC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "0929608313", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9780929608310", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=gJMhf2F2voUC&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 69, 
+        "previewLink": "http://books.google.com/books?id=gJMhf2F2voUC&dq=intitle:summer&hl=&cd=11&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1989", 
+        "publisher": "W Publishing Group", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "A Mother's Manual for Summer Survival"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=KsEygvjEqXsC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "0lex7FkNzBE", 
+      "id": "KsEygvjEqXsC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Readers for Teens provide engaging fictional stories with important themes for young learners of American English. One summer, Sofia, her brother, and two friends work as Junior Zookeepers at the local zoo."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KsEygvjEqXsC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Marcia Wuest"
+        ], 
+        "averageRating": 5.0, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Summer_at_the_Zoo.html?hl=&id=KsEygvjEqXsC", 
+        "categories": [
+          "Foreign Language Study"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "Readers for Teens provide engaging fictional stories with important themes for young learners of American English. One summer, Sofia, her brother, and two friends work as Junior Zookeepers at the local zoo. They all learn a lot about the animals and the zoo. For her final project as a Junior Zookeeper, Sofia helps with the Zoo Parents Program. It's a great success! This reader is about 1900 words long.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KsEygvjEqXsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=KsEygvjEqXsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9780521737357", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "0521737354", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=KsEygvjEqXsC&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 26, 
+        "previewLink": "http://books.google.com/books?id=KsEygvjEqXsC&printsec=frontcover&dq=intitle:summer&hl=&cd=12&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2009-08-17", 
+        "publisher": "Cambridge University Press", 
+        "ratingsCount": 1, 
+        "readingModes": {
+          "image": true, 
+          "text": false
+        }, 
+        "title": "Summer at the Zoo"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=16jhAAAAMAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "gnopYCbMAd4", 
+      "id": "16jhAAAAMAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/16jhAAAAMAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Mrs. James T. Flaherty"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/A_Brief_Sketch_of_the_Earliest_History_o.html?hl=&id=16jhAAAAMAAJ", 
+        "categories": [
+          "Great Lakes (North America)"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=16jhAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=16jhAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "UOM:39015071185980", 
+            "type": "OTHER"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=16jhAAAAMAAJ&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 16, 
+        "previewLink": "http://books.google.com/books?id=16jhAAAAMAAJ&dq=intitle:summer&hl=&cd=13&source=gbs_api", 
+        "printType": "BOOK", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "A Brief Sketch of the Earliest History of Michigan's Great Lake Region, Now the Summer Land of the Middle West"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=lIdFAAAAMAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "D8N1xA6OQNI", 
+      "id": "lIdFAAAAMAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lIdFAAAAMAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Sue Pleskac"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/4_H_EFNEP_Summer_Nutrition_Program.html?hl=&id=lIdFAAAAMAAJ", 
+        "categories": [
+          "4-H clubs"
+        ], 
+        "contentVersion": "0.1.1.0.preview.0", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lIdFAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=lIdFAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "WISC:89050744481", 
+            "type": "OTHER"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=lIdFAAAAMAAJ&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 21, 
+        "previewLink": "http://books.google.com/books?id=lIdFAAAAMAAJ&dq=intitle:summer&hl=&cd=14&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1993", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "subtitle": "At Risk Teens Reaching at Risk Youth", 
+        "title": "4-H/EFNEP Summer Nutrition Program"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=UNnWwJFmBeIC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "3jDQ371NxSY", 
+      "id": "UNnWwJFmBeIC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Offers recipes for pasta dishes, salads, desserts, and meat dishes that are easily assembled and will keep the kitchen cool in summer"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UNnWwJFmBeIC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/No_Oven_Summer_Sensations.html?hl=&id=UNnWwJFmBeIC", 
+        "categories": [
+          "Cooking"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "Offers recipes for pasta dishes, salads, desserts, and meat dishes that are easily assembled and will keep the kitchen cool in summer", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UNnWwJFmBeIC&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=UNnWwJFmBeIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "0696208407", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9780696208409", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=UNnWwJFmBeIC&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 94, 
+        "previewLink": "http://books.google.com/books?id=UNnWwJFmBeIC&dq=intitle:summer&hl=&cd=15&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1998", 
+        "publisher": "Better Homes & Gardens Books", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "No Oven Summer Sensations"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=eN8fAQAAMAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "RxVRNCYAc0g", 
+      "id": "eN8fAQAAMAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eN8fAQAAMAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/A_Model_of_Summer_Habitat_Use_by_the_Fed.html?hl=&id=eN8fAQAAMAAJ", 
+        "categories": [
+          "Bats"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eN8fAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=eN8fAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "IND:39000005847459", 
+            "type": "OTHER"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=eN8fAQAAMAAJ&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 24, 
+        "previewLink": "http://books.google.com/books?id=eN8fAQAAMAAJ&dq=intitle:summer&hl=&cd=16&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1993", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "subtitle": "1992 Field Studies", 
+        "title": "A Model of Summer Habitat Use by the Federally Endangered Indiana Bat (Myotis Sodalis) in Indiana"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=o_o_AAAAIAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "K2LA3WPalmw", 
+      "id": "o_o_AAAAIAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/o_o_AAAAIAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Roy Waldo Miner"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Andros_an_island_of_the_summer_seas.html?hl=&id=o_o_AAAAIAAJ", 
+        "categories": [
+          "Nature"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "industryIdentifiers": [
+          {
+            "identifier": "STANFORD:36105032237534", 
+            "type": "OTHER"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=o_o_AAAAIAAJ&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 15, 
+        "previewLink": "http://books.google.com/books?id=o_o_AAAAIAAJ&dq=intitle:summer&hl=&cd=17&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1929", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "Andros; an island of the summer seas"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=jx--KurPJbQC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "qVisy/ccaW4", 
+      "id": "jx--KurPJbQC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jx--KurPJbQC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Jack Huttig"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/1927_Summer_of_Eagles.html?hl=&id=jx--KurPJbQC", 
+        "categories": [
+          "Transatlantic flights"
+        ], 
+        "contentVersion": "1.1.1.0.preview.0", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jx--KurPJbQC&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=jx--KurPJbQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "0882297236", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9780882297231", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=jx--KurPJbQC&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 160, 
+        "previewLink": "http://books.google.com/books?id=jx--KurPJbQC&dq=intitle:summer&hl=&cd=18&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1980-06-01", 
+        "publisher": "Burnham", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "1927 - Summer of Eagles"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=lZlbjJ7W8voC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "b2/QUZV+mew", 
+      "id": "lZlbjJ7W8voC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Whether you want to picnic by a river bank, dine by candlelight on the patio, or enjoy Sunday lunch in the garden, here is your inspiration."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lZlbjJ7W8voC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Carolyn Humphries"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/The_Summer_Weekend_Cookbook.html?hl=&id=lZlbjJ7W8voC", 
+        "categories": [
+          "Cooking"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "Whether you want to picnic by a river bank, dine by candlelight on the patio, or enjoy Sunday lunch in the garden, here is your inspiration. At the end of a frantic week at work, we all need to connect with the soothing influences of a simpler life and ideally, savor the natural abundance of summer and its harvest. Try it!", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lZlbjJ7W8voC&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=lZlbjJ7W8voC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "0572023669", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9780572023669", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=lZlbjJ7W8voC&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 174, 
+        "previewLink": "http://books.google.com/books?id=lZlbjJ7W8voC&dq=intitle:summer&hl=&cd=19&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2000-05-01", 
+        "publisher": "Foulsham & Company Limited", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "The Summer Weekend Cookbook"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=K0HangEACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "1WK31UVZc24", 
+      "id": "K0HangEACAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Bushfire Summer sweeps the reader into a summer etched in the Australian psyche. This novel is a celebration of people in rural communities, their generosity of spirit and their undeniable acts of heroism when disaster strikes."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/K0HangEACAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Lou Drofenik"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Bushfire_Summer.html?hl=&id=K0HangEACAAJ", 
+        "categories": [
+          "Victoria"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "Set during the 2009 Victorian Black Saturday Bushfires, this novel is a story of courage, loss and the realization that miracles can and do happen. The fires which devastated the tiny community of Cooper Creek affected the lives of those who experienced them in ways nobody expected. Lolly Winter, widowed after six months of marriage, buys a house in Cooper Creek. Fran Lupone who lives on the next property has come to terms with her violent past. This summer she discovers a secret her aunt kept from her when she brought her to Australia from Italy. Garth Evans lives in isolation further up the road, his life embittered by a childhood spent in an orphanage. Over the course of this dry, hot summer culminating in a catastrophe of immense proportions, these people come to terms with their frailties, their connections to each other and to the land they love. Bushfire Summer sweeps the reader into a summer etched in the Australian psyche. This novel is a celebration of people in rural communities, their generosity of spirit and their undeniable acts of heroism when disaster strikes.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=K0HangEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=K0HangEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "0646913921", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9780646913926", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=K0HangEACAAJ&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "previewLink": "http://books.google.com/books?id=K0HangEACAAJ&dq=intitle:summer&hl=&cd=20&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2013", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "Bushfire Summer"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=pFpLAQAAMAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "hnWWBstj2AA", 
+      "id": "pFpLAQAAMAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pFpLAQAAMAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Phil_Mays_Illustrated_Summer_Annual.html?hl=&id=pFpLAQAAMAAJ", 
+        "categories": [
+          "Caricatures and cartoons"
+        ], 
+        "contentVersion": "0.1.0.0.preview.0", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pFpLAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=pFpLAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "UIUC:30112106512061", 
+            "type": "OTHER"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=pFpLAQAAMAAJ&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "previewLink": "http://books.google.com/books?id=pFpLAQAAMAAJ&dq=intitle:summer&hl=&cd=21&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1892", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "Phil Mays Illustrated Summer Annual"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=uTf2jgEACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "AY7Nc9tcDx0", 
+      "id": "uTf2jgEACAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uTf2jgEACAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Timothy Mark Ward"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Summer_Spawning_Patterns_and_Preliminary.html?hl=&id=uTf2jgEACAAJ", 
+        "categories": [
+          "Mackerel fisheries"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "industryIdentifiers": [
+          {
+            "identifier": "1921563737", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9781921563737", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=uTf2jgEACAAJ&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 64, 
+        "previewLink": "http://books.google.com/books?id=uTf2jgEACAAJ&dq=intitle:summer&hl=&cd=22&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2015", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "Summer Spawning Patterns and Preliminary Daily Egg Production Method Survey of Jack Mackerel and Australian Sardine Off the East Coast"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "acsTokenLink": "http://books.google.com/books/download/Palace_Pets_A_Summer_Picnic-sample-epub.acsm?id=AZOZCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "pdf": {
+          "acsTokenLink": "http://books.google.com/books/download/Palace_Pets_A_Summer_Picnic-sample-pdf.acsm?id=AZOZCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api", 
+          "isAvailable": true
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=AZOZCgAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "G55ZCpPUjbQ", 
+      "id": "AZOZCgAAQBAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Read along with Disney!"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AZOZCgAAQBAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Disney Book Group"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Palace_Pets_A_Summer_Picnic.html?hl=&id=AZOZCgAAQBAJ", 
+        "categories": [
+          "Juvenile Fiction"
+        ], 
+        "contentVersion": "1.1.1.0.preview.3", 
+        "description": "Read along with Disney! Summer the kitten loves long days in the meadow, but as she daydreams about climbing trees one afternoon, she notices a large tree nearby and decides to climb it! Suddenly, Summer is stuck high in the tree, and even worse, it begins to rain and lightning! As the thunder roars, Summer spots a girl running through the rain toward the tree! Will Summer ever make it out of the storm? Follow along with word-for-word narration as Summer makes a friend and finds a place to call home.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AZOZCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=AZOZCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "9781484720486", 
+            "type": "ISBN_13"
+          }, 
+          {
+            "identifier": "1484720482", 
+            "type": "ISBN_10"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=AZOZCgAAQBAJ&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 24, 
+        "previewLink": "http://books.google.com/books?id=AZOZCgAAQBAJ&printsec=frontcover&dq=intitle:summer&hl=&cd=23&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2015-08-11", 
+        "publisher": "Disney Electronic Content", 
+        "readingModes": {
+          "image": true, 
+          "text": true
+        }, 
+        "subtitle": "A Disney Read-Along", 
+        "title": "Palace Pets: A Summer Picnic"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=rbv_cbI2-yIC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "y0FbUXIQqDc", 
+      "id": "rbv_cbI2-yIC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "&quot;A young girl learns that you are never too old to dream and imagine, as she is taken on the summer adventure of a lifetime by a spectacular little luna moth.&quot;--Provided by publisher."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rbv_cbI2-yIC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Anne Margaret Lewis"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Twas_the_Night_Before_Summer.html?hl=&id=rbv_cbI2-yIC", 
+        "categories": [
+          "Juvenile Fiction"
+        ], 
+        "contentVersion": "0.0.1.0.preview.0", 
+        "description": "\"A young girl learns that you are never too old to dream and imagine, as she is taken on the summer adventure of a lifetime by a spectacular little luna moth.\"--Provided by publisher.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rbv_cbI2-yIC&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=rbv_cbI2-yIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "1934133418", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9781934133415", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=rbv_cbI2-yIC&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 32, 
+        "previewLink": "http://books.google.com/books?id=rbv_cbI2-yIC&dq=intitle:summer&hl=&cd=24&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2008", 
+        "publisher": "Mackinac Island Press, Incorporated", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "Twas the Night Before Summer"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=2ua2cQAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "VFK97S7UmEw", 
+      "id": "2ua2cQAACAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "&#39;An Edwardian Summer&#39; presents a selection of Arthur Wigram Allen&#39;s Edwardian era photographs, depicting moments with family and friends, harbour excursions and new freedoms in fashion."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2ua2cQAACAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Alan Davies"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/An_Edwardian_Summer.html?hl=&id=2ua2cQAACAAJ", 
+        "categories": [
+          "Photography"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "'An Edwardian Summer' presents a selection of Arthur Wigram Allen's Edwardian era photographs, depicting moments with family and friends, harbour excursions and new freedoms in fashion.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2ua2cQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=2ua2cQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "1876991399", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9781876991395", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=2ua2cQAACAAJ&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 148, 
+        "previewLink": "http://books.google.com/books?id=2ua2cQAACAAJ&dq=intitle:summer&hl=&cd=25&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2010", 
+        "publisher": "Historic Houses Trust of New South", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "subtitle": "Sydney & Beyond Through the Lens of Arthur Wigram Allen", 
+        "title": "An Edwardian Summer"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=bLJFTRIE8qEC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "2d8+mHmPM54", 
+      "id": "bLJFTRIE8qEC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "On the eve of a planned trip to Disney World, Danah&#39;s world is turned upside down when Iraq invades her country Kuwait."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bLJFTRIE8qEC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Firyal Alshalabi"
+        ], 
+        "averageRating": 5.0, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Summer_1990.html?hl=&id=bLJFTRIE8qEC", 
+        "categories": [
+          "Children and war"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "On the eve of a planned trip to Disney World, Danah's world is turned upside down when Iraq invades her country Kuwait.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bLJFTRIE8qEC&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=bLJFTRIE8qEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "0966998804", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9780966998801", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=bLJFTRIE8qEC&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 138, 
+        "previewLink": "http://books.google.com/books?id=bLJFTRIE8qEC&dq=intitle:summer&hl=&cd=26&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1999-01-01", 
+        "ratingsCount": 4, 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "subtitle": "A Young Adult Novel", 
+        "title": "Summer 1990"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=dVSrIgAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "Y8M+ygG6M6E", 
+      "id": "dVSrIgAACAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "When Sam is evacuated, he might as well be going to the Moon."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dVSrIgAACAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Ian MacDonald"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Sam_s_Spitfire_Summer.html?hl=&id=dVSrIgAACAAJ", 
+        "categories": [
+          "Adventure stories"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "When Sam is evacuated, he might as well be going to the Moon. Ten year old Sam watches the familiar sight of London Tower disappear in a cloud of steam as he sets off on a journey to the unfamiliar world of country cottages, farmyard animals and a hostile welcome at the village school.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dVSrIgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=dVSrIgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "1905637438", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9781905637430", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=dVSrIgAACAAJ&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 105, 
+        "previewLink": "http://books.google.com/books?id=dVSrIgAACAAJ&dq=intitle:summer&hl=&cd=27&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2008-01", 
+        "publisher": "Eprint", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "Sam's Spitfire Summer"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=5AssAAAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "GcsloekD+CQ", 
+      "id": "5AssAAAACAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "If your mum is a top interior designer it is not unusual to spend the summer holidays in someone else&#39;s house whilst &#39;mother dear&#39; gets on with doing it up."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5AssAAAACAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "William Corlett"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/The_Summer_of_the_Haunting.html?hl=&id=5AssAAAACAAJ", 
+        "contentVersion": "preview-1.0.0", 
+        "description": "If your mum is a top interior designer it is not unusual to spend the summer holidays in someone else's house whilst 'mother dear' gets on with doing it up. In this case it is Borthwick Hall, an 18th century country house in a remote area of North Yorkshire. All is not as it seems, and when doors starts slamming shut of their own accord and lights go unexpectedly on and off, Emma tries her best to explain why in a rational manner; but when the breathing, voices and unbearable chiding laughter starts her slight uneasiness turns to a gripping fear.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5AssAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=5AssAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "0099220814", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9780099220817", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=5AssAAAACAAJ&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 233, 
+        "previewLink": "http://books.google.com/books?id=5AssAAAACAAJ&dq=intitle:summer&hl=&cd=28&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1995", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "The Summer of the Haunting"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=YniKPQAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "tnuzNOcuQBo", 
+      "id": "YniKPQAACAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YniKPQAACAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Kristin Hannah"
+        ], 
+        "averageRating": 4.0, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/On_Mystic_Lake_Summer_Island.html?hl=&id=YniKPQAACAAJ", 
+        "categories": [
+          "Fiction"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YniKPQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=YniKPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "0345486846", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9780345486844", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=YniKPQAACAAJ&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 816, 
+        "previewLink": "http://books.google.com/books?id=YniKPQAACAAJ&dq=intitle:summer&hl=&cd=29&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2005-05", 
+        "ratingsCount": 1, 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "On Mystic Lake & Summer Island"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=zopdAAAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "XaoWNRC4bkQ", 
+      "id": "zopdAAAACAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zopdAAAACAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Catherine Johnson"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/The_Last_Welsh_Summer.html?hl=&id=zopdAAAACAAJ", 
+        "contentVersion": "preview-1.0.0", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zopdAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=zopdAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "0000771163", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9780000771162", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=zopdAAAACAAJ&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 112, 
+        "previewLink": "http://books.google.com/books?id=zopdAAAACAAJ&dq=intitle:summer&hl=&cd=30&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1996-10-01", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "The Last Welsh Summer"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=MMSaSQAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "W61ELeEV7Pk", 
+      "id": "MMSaSQAACAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Come along - share in the fun, the sadness, the humorous adventures, and even the short tempers triggered by too much togetherness as this family travels from place to place in The Best Worst Summer Ever!"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MMSaSQAACAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "M. t. Kingsley", 
+          "J. T. Kingsley", 
+          "A. T. Kingsley"
+        ], 
+        "averageRating": 3.0, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/The_Best_Worst_Summer_Ever.html?hl=&id=MMSaSQAACAAJ", 
+        "contentVersion": "preview-1.0.0", 
+        "description": "Ever wondered what it would be like to spend the whole summer in Europe with your family? Wonder no more. This real-life travel diary chronicles a journey to four countries spanning 75 days from three very different perspectives of a 40-something mother, a just turning teenage daughter (who would rather be anywhere else), and a younger (and still rational) ten year old daughter. Come along - share in the fun, the sadness, the humorous adventures, and even the short tempers triggered by too much togetherness as this family travels from place to place in The Best Worst Summer Ever!", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MMSaSQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=MMSaSQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "1593306547", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9781593306540", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=MMSaSQAACAAJ&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 254, 
+        "previewLink": "http://books.google.com/books?id=MMSaSQAACAAJ&dq=intitle:summer&hl=&cd=31&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2010-05", 
+        "ratingsCount": 1, 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "The Best Worst Summer Ever"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=5ZmmAAAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "h0+DplljgAY", 
+      "id": "5ZmmAAAACAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "The royal family are off on holiday to a beautiful island resort with its own local stables."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5ZmmAAAACAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Diana Kimpton"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Princess_Ellie_s_Summer_Holiday.html?hl=&id=5ZmmAAAACAAJ", 
+        "categories": [
+          "Children's stories"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "The royal family are off on holiday to a beautiful island resort with its own local stables. There Ellie and Kate meet snooty Princess Clara, who always thinks she knows best. But when Clara gets herself into trouble, Ellie and Kate rush to her aid with the help of a very special pony called Mango.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5ZmmAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=5ZmmAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "0746073089", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9780746073087", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=5ZmmAAAACAAJ&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 140, 
+        "previewLink": "http://books.google.com/books?id=5ZmmAAAACAAJ&dq=intitle:summer&hl=&cd=32&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2006", 
+        "publisher": "Usborne Books", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "Princess Ellie's Summer Holiday"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=utZEPQAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "riPjWLPLFbs", 
+      "id": "utZEPQAACAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Mark fights to save his new friends from the ignorance and fear of his neighbors. Sequel to An Alien Spring."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/utZEPQAACAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Anne Schraff"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Summer_of_Shame.html?hl=&id=utZEPQAACAAJ", 
+        "categories": [
+          "Country life"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "Mark fights to save his new friends from the ignorance and fear of his neighbors. Sequel to An Alien Spring.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=utZEPQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=utZEPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "0789175460", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9780789175465", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=utZEPQAACAAJ&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 110, 
+        "previewLink": "http://books.google.com/books?id=utZEPQAACAAJ&dq=intitle:summer&hl=&cd=33&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2008-01-01", 
+        "publisher": "Perfection Learning", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "Summer of Shame"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=yn6LPQAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "phSpWyboLPk", 
+      "id": "yn6LPQAACAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "A twelve-year-old girl develops a crush on her English teacher when he spends a week at a beach near her family&#39;s cottage."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yn6LPQAACAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Carole S. Adler"
+        ], 
+        "averageRating": 4.0, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Not_Just_a_Summer_Crush.html?hl=&id=yn6LPQAACAAJ", 
+        "categories": [
+          "Juvenile Fiction"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "A twelve-year-old girl develops a crush on her English teacher when he spends a week at a beach near her family's cottage.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yn6LPQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=yn6LPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "0395885329", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9780395885321", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=yn6LPQAACAAJ&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 117, 
+        "previewLink": "http://books.google.com/books?id=yn6LPQAACAAJ&dq=intitle:summer&hl=&cd=34&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1998", 
+        "ratingsCount": 1, 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "Not Just a Summer Crush"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=_XQTAAAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "8qguxn1cHUM", 
+      "id": "_XQTAAAACAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "The sequel to I&#39;ll Bring You Buttercups."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_XQTAAAACAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Elizabeth Elgin"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Daisychain_Summer.html?hl=&id=_XQTAAAACAAJ", 
+        "categories": [
+          "Domestic fiction"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "The sequel to I'll Bring You Buttercups. Daisy is born in 1920, the daughter of gamekeeper Tom and Alice, once a servant whose life has been rocked by the aristocratic Suttons. Now they return to Yorkshire, where the secret sins of one generation will taint the next.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_XQTAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=_XQTAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "0006478875", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9780006478874", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=_XQTAAAACAAJ&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 664, 
+        "previewLink": "http://books.google.com/books?id=_XQTAAAACAAJ&dq=intitle:summer&hl=&cd=35&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1995", 
+        "publisher": "HarperCollins Publishers", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "Daisychain Summer"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE", 
+        "country": "US", 
+        "embeddable": true, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "PARTIAL", 
+        "webReaderLink": "http://books.google.com/books/reader?id=_PdSw2qCq9YC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "9GHmd7uiUXc", 
+      "id": "_PdSw2qCq9YC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "Stephen an Anna Martins is on holiday at the small village of Polreath to escape the strees of London. While there the befriend a local fischer, but as Stephen is suddenly called back to London, their lives change."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_PdSw2qCq9YC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Helen Naylor"
+        ], 
+        "averageRating": 3.5, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/When_Summer_Comes_Level_4.html?hl=&id=_PdSw2qCq9YC", 
+        "categories": [
+          "Foreign Language Study"
+        ], 
+        "contentVersion": "0.0.1.0.preview.1", 
+        "description": "Stephen an Anna Martins is on holiday at the small village of Polreath to escape the strees of London. While there the befriend a local fischer, but as Stephen is suddenly called back to London, their lives change.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_PdSw2qCq9YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=_PdSw2qCq9YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "0521656117", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9780521656115", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=_PdSw2qCq9YC&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 80, 
+        "previewLink": "http://books.google.com/books?id=_PdSw2qCq9YC&printsec=frontcover&dq=intitle:summer&hl=&cd=36&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1999-04-01", 
+        "publisher": "Cambridge University Press", 
+        "ratingsCount": 8, 
+        "readingModes": {
+          "image": true, 
+          "text": false
+        }, 
+        "title": "When Summer Comes Level 4"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=8fpFAQAAIAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "TlhWGFNS7dw", 
+      "id": "8fpFAQAAIAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8fpFAQAAIAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Catskill_Summer_Calendar_Directory.html?hl=&id=8fpFAQAAIAAJ", 
+        "categories": [
+          "Jews"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8fpFAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=8fpFAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "STANFORD:36105114923548", 
+            "type": "OTHER"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=8fpFAQAAIAAJ&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "previewLink": "http://books.google.com/books?id=8fpFAQAAIAAJ&dq=intitle:summer&hl=&cd=37&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2004", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "Catskill Summer Calendar & Directory"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=p90---GKdl4C&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "6APIb7KmAjU", 
+      "id": "p90---GKdl4C", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "searchInfo": {
+        "textSnippet": "A young prairie farm girl records her summer adventures in a diary."
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/p90---GKdl4C", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Sarah Glasscock"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/My_Prairie_Summer.html?hl=&id=p90---GKdl4C", 
+        "categories": [
+          "Juvenile Fiction"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "description": "A young prairie farm girl records her summer adventures in a diary.", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=p90---GKdl4C&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=p90---GKdl4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "0817272844", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9780817272845", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=p90---GKdl4C&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 24, 
+        "previewLink": "http://books.google.com/books?id=p90---GKdl4C&dq=intitle:summer&hl=&cd=38&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1998-01-01", 
+        "publisher": "Steck-Vaughn Company", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "title": "My Prairie Summer"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=EgOuQobH1qEC&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "x8jFqtWP2oc", 
+      "id": "EgOuQobH1qEC", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EgOuQobH1qEC", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Angela Tunner"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/Simply_Summer.html?hl=&id=EgOuQobH1qEC", 
+        "categories": [
+          "Cooking"
+        ], 
+        "contentVersion": "1.1.1.0.preview.0", 
+        "industryIdentifiers": [
+          {
+            "identifier": "0978356101", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9780978356101", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=EgOuQobH1qEC&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 96, 
+        "previewLink": "http://books.google.com/books?id=EgOuQobH1qEC&dq=intitle:summer&hl=&cd=39&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "2007-06", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "subtitle": "Gourmet Meals Made Deliciously Easy with Tips for Elegant Living", 
+        "title": "Simply Summer"
+      }
+    }, 
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE", 
+        "country": "US", 
+        "embeddable": false, 
+        "epub": {
+          "isAvailable": false
+        }, 
+        "pdf": {
+          "isAvailable": false
+        }, 
+        "publicDomain": false, 
+        "quoteSharingAllowed": false, 
+        "textToSpeechPermission": "ALLOWED", 
+        "viewability": "NO_PAGES", 
+        "webReaderLink": "http://books.google.com/books/reader?id=RcJlAAAAMAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api"
+      }, 
+      "etag": "VTpHBOeDU0M", 
+      "id": "RcJlAAAAMAAJ", 
+      "kind": "books#volume", 
+      "saleInfo": {
+        "country": "US", 
+        "isEbook": false, 
+        "saleability": "NOT_FOR_SALE"
+      }, 
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RcJlAAAAMAAJ", 
+      "volumeInfo": {
+        "allowAnonLogging": false, 
+        "authors": [
+          "Keki N. Daruwalla"
+        ], 
+        "canonicalVolumeLink": "http://books.google.com/books/about/A_Summer_of_Tigers.html?hl=&id=RcJlAAAAMAAJ", 
+        "categories": [
+          "Poetry"
+        ], 
+        "contentVersion": "preview-1.0.0", 
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RcJlAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api", 
+          "thumbnail": "http://books.google.com/books/content?id=RcJlAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        }, 
+        "industryIdentifiers": [
+          {
+            "identifier": "8172232012", 
+            "type": "ISBN_10"
+          }, 
+          {
+            "identifier": "9788172232016", 
+            "type": "ISBN_13"
+          }
+        ], 
+        "infoLink": "http://books.google.com/books?id=RcJlAAAAMAAJ&dq=intitle:summer&hl=&source=gbs_api", 
+        "language": "en", 
+        "maturityRating": "NOT_MATURE", 
+        "pageCount": 72, 
+        "previewLink": "http://books.google.com/books?id=RcJlAAAAMAAJ&dq=intitle:summer&hl=&cd=40&source=gbs_api", 
+        "printType": "BOOK", 
+        "publishedDate": "1995", 
+        "readingModes": {
+          "image": false, 
+          "text": false
+        }, 
+        "subtitle": "Poems", 
+        "title": "A Summer of Tigers"
+      }
+    }
+  ], 
+  "kind": "books#volumes", 
+  "totalItems": 838
+}
